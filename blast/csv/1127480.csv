@@ -1,0 +1,145 @@
+version,1.3.0
+info,team,Somerset
+info,team,Gloucestershire
+info,gender,male
+info,season,2018
+info,date,2018/07/13
+info,competition,Vitality Blast
+info,venue,County Ground
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,player_of_match,IA Cockbain
+info,umpire,Tom Lungley
+info,umpire,SJ O'Shaughnessy
+info,winner,Gloucestershire
+info,winner_wickets,4
+ball,1,0.1,Somerset,JG Myburgh,SM Davies,GL van Buuren,1,0,"",""
+ball,1,0.2,Somerset,SM Davies,JG Myburgh,GL van Buuren,1,0,"",""
+ball,1,0.3,Somerset,JG Myburgh,SM Davies,GL van Buuren,1,0,"",""
+ball,1,0.4,Somerset,SM Davies,JG Myburgh,GL van Buuren,2,0,"",""
+ball,1,0.5,Somerset,SM Davies,JG Myburgh,GL van Buuren,4,0,"",""
+ball,1,0.6,Somerset,SM Davies,JG Myburgh,GL van Buuren,4,0,"",""
+ball,1,1.1,Somerset,JG Myburgh,SM Davies,DA Payne,0,1,"",""
+ball,1,1.2,Somerset,SM Davies,JG Myburgh,DA Payne,2,0,"",""
+ball,1,1.3,Somerset,SM Davies,JG Myburgh,DA Payne,0,0,"",""
+ball,1,1.4,Somerset,SM Davies,JG Myburgh,DA Payne,2,0,"",""
+ball,1,1.5,Somerset,SM Davies,JG Myburgh,DA Payne,1,0,"",""
+ball,1,1.6,Somerset,JG Myburgh,SM Davies,DA Payne,6,0,"",""
+ball,1,2.1,Somerset,SM Davies,JG Myburgh,AJ Tye,1,0,"",""
+ball,1,2.2,Somerset,JG Myburgh,SM Davies,AJ Tye,0,0,"",""
+ball,1,2.3,Somerset,JG Myburgh,SM Davies,AJ Tye,1,0,"",""
+ball,1,2.4,Somerset,SM Davies,JG Myburgh,AJ Tye,0,0,caught,SM Davies
+ball,1,2.5,Somerset,JG Myburgh,PD Trego,AJ Tye,1,0,"",""
+ball,1,2.6,Somerset,PD Trego,JG Myburgh,AJ Tye,2,0,"",""
+ball,1,3.1,Somerset,JG Myburgh,PD Trego,RF Higgins,1,0,"",""
+ball,1,3.2,Somerset,PD Trego,JG Myburgh,RF Higgins,1,0,"",""
+ball,1,3.3,Somerset,JG Myburgh,PD Trego,RF Higgins,2,0,"",""
+ball,1,3.4,Somerset,JG Myburgh,PD Trego,RF Higgins,1,0,"",""
+ball,1,3.5,Somerset,PD Trego,JG Myburgh,RF Higgins,1,0,"",""
+ball,1,3.6,Somerset,JG Myburgh,PD Trego,RF Higgins,0,0,run out,JG Myburgh
+ball,1,4.1,Somerset,JC Hildreth,PD Trego,TMJ Smith,0,1,"",""
+ball,1,4.2,Somerset,PD Trego,JC Hildreth,TMJ Smith,1,0,"",""
+ball,1,4.3,Somerset,JC Hildreth,PD Trego,TMJ Smith,0,0,caught,JC Hildreth
+ball,1,4.4,Somerset,PD Trego,CJ Anderson,TMJ Smith,0,0,bowled,PD Trego
+ball,1,4.5,Somerset,L Gregory,CJ Anderson,TMJ Smith,0,0,"",""
+ball,1,4.6,Somerset,L Gregory,CJ Anderson,TMJ Smith,1,0,"",""
+ball,1,5.1,Somerset,L Gregory,CJ Anderson,K Noema-Barnett,1,0,"",""
+ball,1,5.2,Somerset,CJ Anderson,L Gregory,K Noema-Barnett,1,0,"",""
+ball,1,5.3,Somerset,L Gregory,CJ Anderson,K Noema-Barnett,1,0,"",""
+ball,1,5.4,Somerset,CJ Anderson,L Gregory,K Noema-Barnett,4,0,"",""
+ball,1,5.5,Somerset,CJ Anderson,L Gregory,K Noema-Barnett,0,1,"",""
+ball,1,5.6,Somerset,L Gregory,CJ Anderson,K Noema-Barnett,1,0,"",""
+ball,1,6.1,Somerset,L Gregory,CJ Anderson,TMJ Smith,6,0,"",""
+ball,1,6.2,Somerset,L Gregory,CJ Anderson,TMJ Smith,1,0,"",""
+ball,1,6.3,Somerset,CJ Anderson,L Gregory,TMJ Smith,4,0,"",""
+ball,1,6.4,Somerset,CJ Anderson,L Gregory,TMJ Smith,6,0,"",""
+ball,1,6.5,Somerset,CJ Anderson,L Gregory,TMJ Smith,1,0,"",""
+ball,1,6.6,Somerset,L Gregory,CJ Anderson,TMJ Smith,1,0,"",""
+ball,1,7.1,Somerset,L Gregory,CJ Anderson,DA Payne,4,0,"",""
+ball,1,7.2,Somerset,L Gregory,CJ Anderson,DA Payne,2,0,"",""
+ball,1,7.3,Somerset,L Gregory,CJ Anderson,DA Payne,1,0,"",""
+ball,1,7.4,Somerset,CJ Anderson,L Gregory,DA Payne,1,0,"",""
+ball,1,7.5,Somerset,L Gregory,CJ Anderson,DA Payne,0,2,"",""
+ball,1,7.6,Somerset,L Gregory,CJ Anderson,DA Payne,0,0,caught,L Gregory
+ball,1,7.7,Somerset,CJ Anderson,TB Abell,DA Payne,1,0,"",""
+ball,1,8.1,Somerset,CJ Anderson,TB Abell,AJ Tye,1,0,"",""
+ball,1,8.2,Somerset,TB Abell,CJ Anderson,AJ Tye,0,0,caught,TB Abell
+ball,1,8.3,Somerset,RE van der Merwe,CJ Anderson,AJ Tye,1,0,"",""
+ball,1,8.4,Somerset,CJ Anderson,RE van der Merwe,AJ Tye,1,0,"",""
+ball,1,8.5,Somerset,RE van der Merwe,CJ Anderson,AJ Tye,1,0,"",""
+ball,1,8.6,Somerset,CJ Anderson,RE van der Merwe,AJ Tye,1,0,"",""
+ball,1,9.1,Somerset,CJ Anderson,RE van der Merwe,RF Higgins,6,0,"",""
+ball,1,9.2,Somerset,CJ Anderson,RE van der Merwe,RF Higgins,1,0,"",""
+ball,1,9.3,Somerset,RE van der Merwe,CJ Anderson,RF Higgins,0,0,"",""
+ball,1,9.4,Somerset,RE van der Merwe,CJ Anderson,RF Higgins,0,1,"",""
+ball,1,9.5,Somerset,RE van der Merwe,CJ Anderson,RF Higgins,1,0,"",""
+ball,1,9.6,Somerset,CJ Anderson,RE van der Merwe,RF Higgins,6,0,"",""
+ball,1,9.7,Somerset,CJ Anderson,RE van der Merwe,RF Higgins,2,0,"",""
+ball,1,10.1,Somerset,RE van der Merwe,CJ Anderson,AJ Tye,4,0,"",""
+ball,1,10.2,Somerset,RE van der Merwe,CJ Anderson,AJ Tye,4,0,"",""
+ball,1,10.3,Somerset,RE van der Merwe,CJ Anderson,AJ Tye,0,0,caught,RE van der Merwe
+ball,1,10.4,Somerset,CJ Anderson,C Overton,AJ Tye,4,0,"",""
+ball,1,10.5,Somerset,CJ Anderson,C Overton,AJ Tye,0,0,run out,C Overton
+ball,1,10.6,Somerset,J Overton,CJ Anderson,AJ Tye,2,0,"",""
+ball,2,0.1,Gloucestershire,Miles Hammond,M Klinger,C Overton,0,0,"",""
+ball,2,0.2,Gloucestershire,Miles Hammond,M Klinger,C Overton,0,1,"",""
+ball,2,0.3,Gloucestershire,M Klinger,Miles Hammond,C Overton,6,0,"",""
+ball,2,0.4,Gloucestershire,M Klinger,Miles Hammond,C Overton,2,0,"",""
+ball,2,0.5,Gloucestershire,M Klinger,Miles Hammond,C Overton,0,0,"",""
+ball,2,0.6,Gloucestershire,M Klinger,Miles Hammond,C Overton,0,0,caught,M Klinger
+ball,2,1.1,Gloucestershire,Miles Hammond,IA Cockbain,MTC Waller,0,0,"",""
+ball,2,1.2,Gloucestershire,Miles Hammond,IA Cockbain,MTC Waller,0,0,"",""
+ball,2,1.3,Gloucestershire,Miles Hammond,IA Cockbain,MTC Waller,4,0,"",""
+ball,2,1.4,Gloucestershire,Miles Hammond,IA Cockbain,MTC Waller,0,0,caught,Miles Hammond
+ball,2,1.5,Gloucestershire,IA Cockbain,K Noema-Barnett,MTC Waller,1,0,"",""
+ball,2,1.6,Gloucestershire,K Noema-Barnett,IA Cockbain,MTC Waller,1,0,"",""
+ball,2,2.1,Gloucestershire,K Noema-Barnett,IA Cockbain,L Gregory,1,0,"",""
+ball,2,2.2,Gloucestershire,IA Cockbain,K Noema-Barnett,L Gregory,2,0,"",""
+ball,2,2.3,Gloucestershire,IA Cockbain,K Noema-Barnett,L Gregory,0,0,"",""
+ball,2,2.4,Gloucestershire,IA Cockbain,K Noema-Barnett,L Gregory,1,0,"",""
+ball,2,2.5,Gloucestershire,K Noema-Barnett,IA Cockbain,L Gregory,2,0,"",""
+ball,2,2.6,Gloucestershire,K Noema-Barnett,IA Cockbain,L Gregory,6,0,"",""
+ball,2,3.1,Gloucestershire,IA Cockbain,K Noema-Barnett,J Overton,4,0,"",""
+ball,2,3.2,Gloucestershire,IA Cockbain,K Noema-Barnett,J Overton,1,0,"",""
+ball,2,3.3,Gloucestershire,K Noema-Barnett,IA Cockbain,J Overton,1,0,"",""
+ball,2,3.4,Gloucestershire,IA Cockbain,K Noema-Barnett,J Overton,1,0,"",""
+ball,2,3.5,Gloucestershire,K Noema-Barnett,IA Cockbain,J Overton,2,0,"",""
+ball,2,3.6,Gloucestershire,K Noema-Barnett,IA Cockbain,J Overton,4,0,"",""
+ball,2,4.1,Gloucestershire,IA Cockbain,K Noema-Barnett,RE van der Merwe,1,0,"",""
+ball,2,4.2,Gloucestershire,K Noema-Barnett,IA Cockbain,RE van der Merwe,6,0,"",""
+ball,2,4.3,Gloucestershire,K Noema-Barnett,IA Cockbain,RE van der Merwe,1,0,"",""
+ball,2,4.4,Gloucestershire,IA Cockbain,K Noema-Barnett,RE van der Merwe,0,0,"",""
+ball,2,4.5,Gloucestershire,IA Cockbain,K Noema-Barnett,RE van der Merwe,1,0,"",""
+ball,2,4.6,Gloucestershire,K Noema-Barnett,IA Cockbain,RE van der Merwe,1,0,"",""
+ball,2,5.1,Gloucestershire,K Noema-Barnett,IA Cockbain,L Gregory,0,0,caught,K Noema-Barnett
+ball,2,5.2,Gloucestershire,IA Cockbain,RF Higgins,L Gregory,1,0,"",""
+ball,2,5.3,Gloucestershire,RF Higgins,IA Cockbain,L Gregory,1,0,"",""
+ball,2,5.4,Gloucestershire,IA Cockbain,RF Higgins,L Gregory,1,0,"",""
+ball,2,5.5,Gloucestershire,RF Higgins,IA Cockbain,L Gregory,1,0,"",""
+ball,2,5.6,Gloucestershire,IA Cockbain,RF Higgins,L Gregory,6,0,"",""
+ball,2,6.1,Gloucestershire,RF Higgins,IA Cockbain,PD Trego,1,0,"",""
+ball,2,6.2,Gloucestershire,IA Cockbain,RF Higgins,PD Trego,6,0,"",""
+ball,2,6.3,Gloucestershire,IA Cockbain,RF Higgins,PD Trego,4,0,"",""
+ball,2,6.4,Gloucestershire,IA Cockbain,RF Higgins,PD Trego,1,0,"",""
+ball,2,6.5,Gloucestershire,RF Higgins,IA Cockbain,PD Trego,6,0,"",""
+ball,2,6.6,Gloucestershire,RF Higgins,IA Cockbain,PD Trego,1,0,"",""
+ball,2,7.1,Gloucestershire,RF Higgins,IA Cockbain,RE van der Merwe,1,0,"",""
+ball,2,7.2,Gloucestershire,IA Cockbain,RF Higgins,RE van der Merwe,1,0,"",""
+ball,2,7.3,Gloucestershire,RF Higgins,IA Cockbain,RE van der Merwe,0,0,caught,RF Higgins
+ball,2,7.4,Gloucestershire,JMR Taylor,IA Cockbain,RE van der Merwe,1,0,"",""
+ball,2,7.5,Gloucestershire,IA Cockbain,JMR Taylor,RE van der Merwe,1,0,"",""
+ball,2,7.6,Gloucestershire,JMR Taylor,IA Cockbain,RE van der Merwe,1,0,"",""
+ball,2,8.1,Gloucestershire,JMR Taylor,IA Cockbain,J Overton,6,0,"",""
+ball,2,8.2,Gloucestershire,JMR Taylor,IA Cockbain,J Overton,4,0,"",""
+ball,2,8.3,Gloucestershire,JMR Taylor,IA Cockbain,J Overton,1,0,"",""
+ball,2,8.4,Gloucestershire,IA Cockbain,JMR Taylor,J Overton,1,0,"",""
+ball,2,8.5,Gloucestershire,JMR Taylor,IA Cockbain,J Overton,6,0,"",""
+ball,2,8.6,Gloucestershire,JMR Taylor,IA Cockbain,J Overton,0,0,caught,JMR Taylor
+ball,2,9.1,Gloucestershire,GH Roderick,IA Cockbain,L Gregory,0,0,"",""
+ball,2,9.2,Gloucestershire,GH Roderick,IA Cockbain,L Gregory,1,0,"",""
+ball,2,9.3,Gloucestershire,IA Cockbain,GH Roderick,L Gregory,4,0,"",""
+ball,2,9.4,Gloucestershire,IA Cockbain,GH Roderick,L Gregory,1,0,"",""
+ball,2,9.5,Gloucestershire,GH Roderick,IA Cockbain,L Gregory,4,0,"",""
+ball,2,9.6,Gloucestershire,GH Roderick,IA Cockbain,L Gregory,0,0,caught,GH Roderick
+ball,2,10.1,Gloucestershire,IA Cockbain,GL van Buuren,C Overton,4,0,"",""

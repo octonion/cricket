@@ -1,0 +1,66 @@
+version,1.3.0
+info,team,Sussex
+info,team,Glamorgan
+info,gender,male
+info,season,2017
+info,date,2017/07/21
+info,competition,NatWest T20 Blast
+info,venue,Sophia Gardens
+info,city,Cardiff
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,JH Evans
+info,umpire,RJ Warren
+info,outcome,no result
+ball,1,0.1,Sussex,CD Nash,LJ Wright,MG Hogan,1,0,"",""
+ball,1,0.2,Sussex,LJ Wright,CD Nash,MG Hogan,1,0,"",""
+ball,1,0.3,Sussex,CD Nash,LJ Wright,MG Hogan,2,0,"",""
+ball,1,0.4,Sussex,CD Nash,LJ Wright,MG Hogan,2,0,"",""
+ball,1,0.5,Sussex,CD Nash,LJ Wright,MG Hogan,4,0,"",""
+ball,1,0.6,Sussex,CD Nash,LJ Wright,MG Hogan,0,0,"",""
+ball,1,1.1,Sussex,LJ Wright,CD Nash,M de Lange,0,0,"",""
+ball,1,1.2,Sussex,LJ Wright,CD Nash,M de Lange,0,0,caught,LJ Wright
+ball,1,1.3,Sussex,PD Salt,CD Nash,M de Lange,4,0,"",""
+ball,1,1.4,Sussex,PD Salt,CD Nash,M de Lange,4,0,"",""
+ball,1,1.5,Sussex,PD Salt,CD Nash,M de Lange,1,0,"",""
+ball,1,1.6,Sussex,CD Nash,PD Salt,M de Lange,0,0,caught,CD Nash
+ball,1,2.1,Sussex,PD Salt,LRPL Taylor,T van der Gugten,0,1,"",""
+ball,1,2.2,Sussex,LRPL Taylor,PD Salt,T van der Gugten,1,0,"",""
+ball,1,2.3,Sussex,PD Salt,LRPL Taylor,T van der Gugten,0,0,"",""
+ball,1,2.4,Sussex,PD Salt,LRPL Taylor,T van der Gugten,0,0,"",""
+ball,1,2.5,Sussex,PD Salt,LRPL Taylor,T van der Gugten,1,0,"",""
+ball,1,2.6,Sussex,LRPL Taylor,PD Salt,T van der Gugten,1,0,"",""
+ball,1,3.1,Sussex,LRPL Taylor,PD Salt,M de Lange,0,1,"",""
+ball,1,3.2,Sussex,PD Salt,LRPL Taylor,M de Lange,6,0,"",""
+ball,1,3.3,Sussex,PD Salt,LRPL Taylor,M de Lange,4,0,"",""
+ball,1,3.4,Sussex,PD Salt,LRPL Taylor,M de Lange,2,0,"",""
+ball,1,3.5,Sussex,PD Salt,LRPL Taylor,M de Lange,1,0,"",""
+ball,1,3.6,Sussex,LRPL Taylor,PD Salt,M de Lange,0,1,"",""
+ball,1,3.7,Sussex,LRPL Taylor,PD Salt,M de Lange,0,1,"",""
+ball,1,3.8,Sussex,LRPL Taylor,PD Salt,M de Lange,1,0,"",""
+ball,1,4.1,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,4,0,"",""
+ball,1,4.2,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,1,0,"",""
+ball,1,4.3,Sussex,PD Salt,LRPL Taylor,CAJ Meschede,0,0,"",""
+ball,1,4.4,Sussex,PD Salt,LRPL Taylor,CAJ Meschede,2,0,"",""
+ball,1,4.5,Sussex,PD Salt,LRPL Taylor,CAJ Meschede,0,0,"",""
+ball,1,4.6,Sussex,PD Salt,LRPL Taylor,CAJ Meschede,0,0,"",""
+ball,1,5.1,Sussex,LRPL Taylor,PD Salt,GG Wagg,6,0,"",""
+ball,1,5.2,Sussex,LRPL Taylor,PD Salt,GG Wagg,4,0,"",""
+ball,1,5.3,Sussex,LRPL Taylor,PD Salt,GG Wagg,1,0,"",""
+ball,1,5.4,Sussex,PD Salt,LRPL Taylor,GG Wagg,0,0,"",""
+ball,1,5.5,Sussex,PD Salt,LRPL Taylor,GG Wagg,0,1,"",""
+ball,1,5.6,Sussex,LRPL Taylor,PD Salt,GG Wagg,1,0,"",""
+ball,1,6.1,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,1,0,"",""
+ball,1,6.2,Sussex,PD Salt,LRPL Taylor,CAJ Meschede,1,0,"",""
+ball,1,6.3,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,0,1,"",""
+ball,1,6.4,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,6,0,"",""
+ball,1,6.5,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,4,0,"",""
+ball,1,6.6,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,4,0,"",""
+ball,1,6.7,Sussex,LRPL Taylor,PD Salt,CAJ Meschede,0,0,"",""
+ball,1,7.1,Sussex,PD Salt,LRPL Taylor,GG Wagg,0,1,"",""
+ball,1,7.2,Sussex,LRPL Taylor,PD Salt,GG Wagg,1,0,"",""
+ball,1,7.3,Sussex,PD Salt,LRPL Taylor,GG Wagg,1,0,"",""
+ball,1,7.4,Sussex,LRPL Taylor,PD Salt,GG Wagg,2,0,"",""
+ball,1,7.5,Sussex,LRPL Taylor,PD Salt,GG Wagg,1,0,"",""
+ball,1,7.6,Sussex,PD Salt,LRPL Taylor,GG Wagg,1,2,"",""
+ball,1,7.7,Sussex,LRPL Taylor,PD Salt,GG Wagg,1,0,"",""

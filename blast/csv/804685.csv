@@ -1,0 +1,73 @@
+version,1.3.0
+info,team,Glamorgan
+info,team,Gloucestershire
+info,gender,male
+info,season,2015
+info,date,2015/07/24
+info,competition,NatWest T20 Blast
+info,venue,Sophia Gardens
+info,city,Cardiff
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,player_of_match,CDJ Dent
+info,umpire,RJ Evans
+info,umpire,JH Evans
+info,winner,Gloucestershire
+info,winner_wickets,8
+ball,1,0.1,Glamorgan,CA Ingram,GG Wagg,DA Payne,0,0,"",""
+ball,1,0.2,Glamorgan,CA Ingram,GG Wagg,DA Payne,6,0,"",""
+ball,1,0.3,Glamorgan,CA Ingram,GG Wagg,DA Payne,4,0,"",""
+ball,1,0.4,Glamorgan,CA Ingram,GG Wagg,DA Payne,4,0,"",""
+ball,1,0.5,Glamorgan,CA Ingram,GG Wagg,DA Payne,0,1,"",""
+ball,1,0.6,Glamorgan,CA Ingram,GG Wagg,DA Payne,2,0,"",""
+ball,1,0.7,Glamorgan,CA Ingram,GG Wagg,DA Payne,0,0,"",""
+ball,1,1.1,Glamorgan,GG Wagg,CA Ingram,JK Fuller,0,4,"",""
+ball,1,1.2,Glamorgan,GG Wagg,CA Ingram,JK Fuller,0,0,"",""
+ball,1,1.3,Glamorgan,GG Wagg,CA Ingram,JK Fuller,0,0,"",""
+ball,1,1.4,Glamorgan,GG Wagg,CA Ingram,JK Fuller,0,0,"",""
+ball,1,1.5,Glamorgan,GG Wagg,CA Ingram,JK Fuller,0,0,"",""
+ball,1,1.6,Glamorgan,GG Wagg,CA Ingram,JK Fuller,0,0,"",""
+ball,1,2.1,Glamorgan,CA Ingram,GG Wagg,K Noema-Barnett,0,1,"",""
+ball,1,2.2,Glamorgan,CA Ingram,GG Wagg,K Noema-Barnett,2,0,"",""
+ball,1,2.3,Glamorgan,CA Ingram,GG Wagg,K Noema-Barnett,0,1,"",""
+ball,1,2.4,Glamorgan,CA Ingram,GG Wagg,K Noema-Barnett,0,0,caught,CA Ingram
+ball,1,2.5,Glamorgan,GG Wagg,CAJ Meschede,K Noema-Barnett,4,0,"",""
+ball,1,2.6,Glamorgan,GG Wagg,CAJ Meschede,K Noema-Barnett,1,0,"",""
+ball,1,2.7,Glamorgan,CAJ Meschede,GG Wagg,K Noema-Barnett,4,0,"",""
+ball,1,2.8,Glamorgan,CAJ Meschede,GG Wagg,K Noema-Barnett,2,0,"",""
+ball,1,3.1,Glamorgan,GG Wagg,CAJ Meschede,BAC Howell,0,0,"",""
+ball,1,3.2,Glamorgan,GG Wagg,CAJ Meschede,BAC Howell,0,0,"",""
+ball,1,3.3,Glamorgan,GG Wagg,CAJ Meschede,BAC Howell,0,0,"",""
+ball,1,3.4,Glamorgan,GG Wagg,CAJ Meschede,BAC Howell,0,0,"",""
+ball,1,3.5,Glamorgan,GG Wagg,CAJ Meschede,BAC Howell,1,0,"",""
+ball,1,3.6,Glamorgan,CAJ Meschede,GG Wagg,BAC Howell,0,0,"",""
+ball,1,4.1,Glamorgan,GG Wagg,CAJ Meschede,CN Miles,0,0,"",""
+ball,1,4.2,Glamorgan,GG Wagg,CAJ Meschede,CN Miles,0,0,retired hurt,GG Wagg
+ball,1,4.3,Glamorgan,CB Cooke,CAJ Meschede,CN Miles,4,0,"",""
+ball,1,4.4,Glamorgan,CB Cooke,CAJ Meschede,CN Miles,0,0,"",""
+ball,1,4.5,Glamorgan,CB Cooke,CAJ Meschede,CN Miles,2,0,"",""
+ball,1,4.6,Glamorgan,CB Cooke,CAJ Meschede,CN Miles,0,2,"",""
+ball,2,0.1,Gloucestershire,CDJ Dent,M Klinger,CAJ Meschede,1,0,"",""
+ball,2,0.2,Gloucestershire,M Klinger,CDJ Dent,CAJ Meschede,1,0,"",""
+ball,2,0.3,Gloucestershire,CDJ Dent,M Klinger,CAJ Meschede,2,0,"",""
+ball,2,0.4,Gloucestershire,CDJ Dent,M Klinger,CAJ Meschede,0,0,"",""
+ball,2,0.5,Gloucestershire,CDJ Dent,M Klinger,CAJ Meschede,0,0,"",""
+ball,2,0.6,Gloucestershire,CDJ Dent,M Klinger,CAJ Meschede,6,0,"",""
+ball,2,1.1,Gloucestershire,M Klinger,CDJ Dent,DL Lloyd,0,1,"",""
+ball,2,1.2,Gloucestershire,M Klinger,CDJ Dent,DL Lloyd,0,0,caught,M Klinger
+ball,2,1.3,Gloucestershire,CDJ Dent,GO Jones,DL Lloyd,1,0,"",""
+ball,2,1.4,Gloucestershire,GO Jones,CDJ Dent,DL Lloyd,6,0,"",""
+ball,2,1.5,Gloucestershire,GO Jones,CDJ Dent,DL Lloyd,4,0,"",""
+ball,2,1.6,Gloucestershire,GO Jones,CDJ Dent,DL Lloyd,0,0,bowled,GO Jones
+ball,2,1.7,Gloucestershire,BAC Howell,CDJ Dent,DL Lloyd,1,0,"",""
+ball,2,2.1,Gloucestershire,BAC Howell,CDJ Dent,DA Cosker,2,0,"",""
+ball,2,2.2,Gloucestershire,BAC Howell,CDJ Dent,DA Cosker,0,0,"",""
+ball,2,2.3,Gloucestershire,BAC Howell,CDJ Dent,DA Cosker,1,0,"",""
+ball,2,2.4,Gloucestershire,CDJ Dent,BAC Howell,DA Cosker,1,0,"",""
+ball,2,2.5,Gloucestershire,BAC Howell,CDJ Dent,DA Cosker,6,0,"",""
+ball,2,2.6,Gloucestershire,BAC Howell,CDJ Dent,DA Cosker,0,0,"",""
+ball,2,3.1,Gloucestershire,CDJ Dent,BAC Howell,MG Hogan,1,0,"",""
+ball,2,3.2,Gloucestershire,BAC Howell,CDJ Dent,MG Hogan,1,0,"",""
+ball,2,3.3,Gloucestershire,CDJ Dent,BAC Howell,MG Hogan,4,0,"",""
+ball,2,3.4,Gloucestershire,CDJ Dent,BAC Howell,MG Hogan,6,0,"",""
+ball,2,3.5,Gloucestershire,CDJ Dent,BAC Howell,MG Hogan,6,0,"",""

@@ -1,0 +1,102 @@
+version,1.3.0
+info,team,Durham
+info,team,Worcestershire
+info,gender,male
+info,season,2016
+info,date,2016/06/30
+info,competition,NatWest T20 Blast
+info,venue,Riverside Ground
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,field
+info,umpire,JH Evans
+info,umpire,RJ Evans
+info,outcome,no result
+ball,1,0.1,Worcestershire,T Kohler-Cadmore,DKH Mitchell,C Rushworth,0,0,"",""
+ball,1,0.2,Worcestershire,T Kohler-Cadmore,DKH Mitchell,C Rushworth,0,0,caught,T Kohler-Cadmore
+ball,1,0.3,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,0,1,"",""
+ball,1,0.4,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,0,0,"",""
+ball,1,0.5,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,0,0,"",""
+ball,1,0.6,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,0,0,"",""
+ball,1,0.7,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,1,0,"",""
+ball,1,1.1,Worcestershire,JM Clarke,DKH Mitchell,U Arshad,1,0,"",""
+ball,1,1.2,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,0,0,"",""
+ball,1,1.3,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,0,0,"",""
+ball,1,1.4,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,1,0,"",""
+ball,1,1.5,Worcestershire,JM Clarke,DKH Mitchell,U Arshad,1,0,"",""
+ball,1,1.6,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,4,0,"",""
+ball,1,2.1,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,3,0,"",""
+ball,1,2.2,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,2,0,"",""
+ball,1,2.3,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,0,0,"",""
+ball,1,2.4,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,2,0,"",""
+ball,1,2.5,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,0,0,"",""
+ball,1,2.6,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,0,0,"",""
+ball,1,3.1,Worcestershire,JM Clarke,DKH Mitchell,P Coughlin,0,0,"",""
+ball,1,3.2,Worcestershire,JM Clarke,DKH Mitchell,P Coughlin,4,0,"",""
+ball,1,3.3,Worcestershire,JM Clarke,DKH Mitchell,P Coughlin,0,1,"",""
+ball,1,3.4,Worcestershire,DKH Mitchell,JM Clarke,P Coughlin,0,1,"",""
+ball,1,3.5,Worcestershire,DKH Mitchell,JM Clarke,P Coughlin,4,0,"",""
+ball,1,3.6,Worcestershire,DKH Mitchell,JM Clarke,P Coughlin,0,0,"",""
+ball,1,3.7,Worcestershire,DKH Mitchell,JM Clarke,P Coughlin,1,0,"",""
+ball,1,4.1,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,0,0,"",""
+ball,1,4.2,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,3,0,"",""
+ball,1,4.3,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,0,0,"",""
+ball,1,4.4,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,3,0,"",""
+ball,1,4.5,Worcestershire,DKH Mitchell,JM Clarke,C Rushworth,1,0,"",""
+ball,1,4.6,Worcestershire,JM Clarke,DKH Mitchell,C Rushworth,6,0,"",""
+ball,1,5.1,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,4,0,"",""
+ball,1,5.2,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,0,0,"",""
+ball,1,5.3,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,4,0,"",""
+ball,1,5.4,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,2,0,"",""
+ball,1,5.5,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,0,0,"",""
+ball,1,5.6,Worcestershire,DKH Mitchell,JM Clarke,U Arshad,0,0,caught,DKH Mitchell
+ball,1,6.1,Worcestershire,AN Kervezee,JM Clarke,KK Jennings,1,0,"",""
+ball,1,6.2,Worcestershire,JM Clarke,AN Kervezee,KK Jennings,4,0,"",""
+ball,1,6.3,Worcestershire,JM Clarke,AN Kervezee,KK Jennings,0,0,"",""
+ball,1,6.4,Worcestershire,JM Clarke,AN Kervezee,KK Jennings,1,0,"",""
+ball,1,6.5,Worcestershire,AN Kervezee,JM Clarke,KK Jennings,1,0,"",""
+ball,1,6.6,Worcestershire,JM Clarke,AN Kervezee,KK Jennings,0,4,"",""
+ball,1,7.1,Worcestershire,AN Kervezee,JM Clarke,SG Borthwick,1,0,"",""
+ball,1,7.2,Worcestershire,JM Clarke,AN Kervezee,SG Borthwick,1,2,"",""
+ball,1,7.3,Worcestershire,AN Kervezee,JM Clarke,SG Borthwick,0,0,"",""
+ball,1,7.4,Worcestershire,AN Kervezee,JM Clarke,SG Borthwick,1,0,"",""
+ball,1,7.5,Worcestershire,JM Clarke,AN Kervezee,SG Borthwick,2,0,"",""
+ball,1,7.6,Worcestershire,JM Clarke,AN Kervezee,SG Borthwick,0,0,"",""
+ball,1,7.7,Worcestershire,JM Clarke,AN Kervezee,SG Borthwick,0,0,"",""
+ball,1,8.1,Worcestershire,AN Kervezee,JM Clarke,KK Jennings,1,0,"",""
+ball,1,8.2,Worcestershire,JM Clarke,AN Kervezee,KK Jennings,0,1,"",""
+ball,1,8.3,Worcestershire,AN Kervezee,JM Clarke,KK Jennings,0,0,bowled,AN Kervezee
+ball,1,8.4,Worcestershire,BL D'Oliveira,JM Clarke,KK Jennings,1,0,"",""
+ball,1,8.5,Worcestershire,JM Clarke,BL D'Oliveira,KK Jennings,0,1,"",""
+ball,1,8.6,Worcestershire,BL D'Oliveira,JM Clarke,KK Jennings,1,0,"",""
+ball,1,9.1,Worcestershire,BL D'Oliveira,JM Clarke,SG Borthwick,1,0,"",""
+ball,1,9.2,Worcestershire,JM Clarke,BL D'Oliveira,SG Borthwick,2,0,"",""
+ball,1,9.3,Worcestershire,JM Clarke,BL D'Oliveira,SG Borthwick,1,0,"",""
+ball,1,9.4,Worcestershire,BL D'Oliveira,JM Clarke,SG Borthwick,1,0,"",""
+ball,1,9.5,Worcestershire,JM Clarke,BL D'Oliveira,SG Borthwick,1,0,"",""
+ball,1,9.6,Worcestershire,BL D'Oliveira,JM Clarke,SG Borthwick,2,0,"",""
+ball,1,10.1,Worcestershire,JM Clarke,BL D'Oliveira,KK Jennings,1,0,"",""
+ball,1,10.2,Worcestershire,BL D'Oliveira,JM Clarke,KK Jennings,1,0,"",""
+ball,1,10.3,Worcestershire,JM Clarke,BL D'Oliveira,KK Jennings,1,0,"",""
+ball,1,10.4,Worcestershire,BL D'Oliveira,JM Clarke,KK Jennings,1,0,"",""
+ball,1,10.5,Worcestershire,JM Clarke,BL D'Oliveira,KK Jennings,1,0,"",""
+ball,1,10.6,Worcestershire,BL D'Oliveira,JM Clarke,KK Jennings,1,0,"",""
+ball,1,11.1,Worcestershire,BL D'Oliveira,JM Clarke,RD Pringle,0,0,"",""
+ball,1,11.2,Worcestershire,BL D'Oliveira,JM Clarke,RD Pringle,0,0,"",""
+ball,1,11.3,Worcestershire,BL D'Oliveira,JM Clarke,RD Pringle,1,0,"",""
+ball,1,11.4,Worcestershire,JM Clarke,BL D'Oliveira,RD Pringle,2,0,"",""
+ball,1,11.5,Worcestershire,JM Clarke,BL D'Oliveira,RD Pringle,0,0,bowled,JM Clarke
+ball,1,11.6,Worcestershire,RA Whiteley,BL D'Oliveira,RD Pringle,0,0,"",""
+ball,1,12.1,Worcestershire,BL D'Oliveira,RA Whiteley,KK Jennings,0,0,"",""
+ball,1,12.2,Worcestershire,BL D'Oliveira,RA Whiteley,KK Jennings,0,0,"",""
+ball,1,12.3,Worcestershire,BL D'Oliveira,RA Whiteley,KK Jennings,1,0,"",""
+ball,1,12.4,Worcestershire,RA Whiteley,BL D'Oliveira,KK Jennings,0,0,"",""
+ball,1,12.5,Worcestershire,RA Whiteley,BL D'Oliveira,KK Jennings,1,0,"",""
+ball,1,12.6,Worcestershire,BL D'Oliveira,RA Whiteley,KK Jennings,0,0,caught,BL D'Oliveira
+ball,1,13.1,Worcestershire,OB Cox,RA Whiteley,RD Pringle,1,0,"",""
+ball,1,13.2,Worcestershire,RA Whiteley,OB Cox,RD Pringle,0,0,"",""
+ball,1,13.3,Worcestershire,RA Whiteley,OB Cox,RD Pringle,2,0,"",""
+ball,1,13.4,Worcestershire,RA Whiteley,OB Cox,RD Pringle,0,0,"",""
+ball,1,13.5,Worcestershire,RA Whiteley,OB Cox,RD Pringle,2,0,"",""
+ball,1,13.6,Worcestershire,RA Whiteley,OB Cox,RD Pringle,6,0,"",""
+ball,1,14.1,Worcestershire,OB Cox,RA Whiteley,SG Borthwick,0,0,"",""

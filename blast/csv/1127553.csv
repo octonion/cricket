@@ -1,0 +1,62 @@
+version,1.3.0
+info,team,Essex
+info,team,Hampshire
+info,gender,male
+info,season,2018
+info,date,2018/08/12
+info,competition,Vitality Blast
+info,venue,The Rose Bowl
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,GD Lloyd
+info,umpire,MA Gough
+info,outcome,no result
+ball,1,0.1,Essex,AJA Wheater,V Chopra,CP Wood,0,0,"",""
+ball,1,0.2,Essex,AJA Wheater,V Chopra,CP Wood,1,0,"",""
+ball,1,0.3,Essex,V Chopra,AJA Wheater,CP Wood,1,0,"",""
+ball,1,0.4,Essex,AJA Wheater,V Chopra,CP Wood,0,0,caught,AJA Wheater
+ball,1,0.5,Essex,V Chopra,PI Walter,CP Wood,0,0,"",""
+ball,1,0.6,Essex,V Chopra,PI Walter,CP Wood,1,0,"",""
+ball,1,1.1,Essex,V Chopra,PI Walter,RA Stevenson,0,0,"",""
+ball,1,1.2,Essex,V Chopra,PI Walter,RA Stevenson,1,0,"",""
+ball,1,1.3,Essex,PI Walter,V Chopra,RA Stevenson,1,0,"",""
+ball,1,1.4,Essex,V Chopra,PI Walter,RA Stevenson,2,0,"",""
+ball,1,1.5,Essex,V Chopra,PI Walter,RA Stevenson,2,0,"",""
+ball,1,1.6,Essex,V Chopra,PI Walter,RA Stevenson,1,0,"",""
+ball,1,2.1,Essex,V Chopra,PI Walter,CP Wood,6,0,"",""
+ball,1,2.2,Essex,V Chopra,PI Walter,CP Wood,1,0,"",""
+ball,1,2.3,Essex,PI Walter,V Chopra,CP Wood,0,1,"",""
+ball,1,2.4,Essex,PI Walter,V Chopra,CP Wood,4,0,"",""
+ball,1,2.5,Essex,PI Walter,V Chopra,CP Wood,1,0,"",""
+ball,1,2.6,Essex,V Chopra,PI Walter,CP Wood,0,0,caught,V Chopra
+ball,1,2.7,Essex,RN ten Doeschate,PI Walter,CP Wood,0,0,"",""
+ball,1,3.1,Essex,PI Walter,RN ten Doeschate,RA Stevenson,1,0,"",""
+ball,1,3.2,Essex,RN ten Doeschate,PI Walter,RA Stevenson,0,0,"",""
+ball,1,3.3,Essex,RN ten Doeschate,PI Walter,RA Stevenson,4,0,"",""
+ball,1,3.4,Essex,RN ten Doeschate,PI Walter,RA Stevenson,1,0,"",""
+ball,1,3.5,Essex,PI Walter,RN ten Doeschate,RA Stevenson,6,0,"",""
+ball,1,3.6,Essex,PI Walter,RN ten Doeschate,RA Stevenson,4,0,"",""
+ball,1,4.1,Essex,RN ten Doeschate,PI Walter,GK Berg,4,0,"",""
+ball,1,4.2,Essex,RN ten Doeschate,PI Walter,GK Berg,1,0,"",""
+ball,1,4.3,Essex,PI Walter,RN ten Doeschate,GK Berg,4,0,"",""
+ball,1,4.4,Essex,PI Walter,RN ten Doeschate,GK Berg,1,0,"",""
+ball,1,4.5,Essex,RN ten Doeschate,PI Walter,GK Berg,0,0,"",""
+ball,1,4.6,Essex,RN ten Doeschate,PI Walter,GK Berg,0,0,"",""
+ball,1,5.1,Essex,PI Walter,RN ten Doeschate,Mujeeb Ur Rahman,0,0,bowled,PI Walter
+ball,1,5.2,Essex,DW Lawrence,RN ten Doeschate,Mujeeb Ur Rahman,3,0,"",""
+ball,1,5.3,Essex,RN ten Doeschate,DW Lawrence,Mujeeb Ur Rahman,0,0,"",""
+ball,1,5.4,Essex,RN ten Doeschate,DW Lawrence,Mujeeb Ur Rahman,1,0,"",""
+ball,1,5.5,Essex,DW Lawrence,RN ten Doeschate,Mujeeb Ur Rahman,1,0,"",""
+ball,1,5.6,Essex,RN ten Doeschate,DW Lawrence,Mujeeb Ur Rahman,1,0,"",""
+ball,1,6.1,Essex,RN ten Doeschate,DW Lawrence,LA Dawson,2,0,"",""
+ball,1,6.2,Essex,RN ten Doeschate,DW Lawrence,LA Dawson,1,0,"",""
+ball,1,6.3,Essex,DW Lawrence,RN ten Doeschate,LA Dawson,0,0,"",""
+ball,1,6.4,Essex,DW Lawrence,RN ten Doeschate,LA Dawson,6,0,"",""
+ball,1,6.5,Essex,DW Lawrence,RN ten Doeschate,LA Dawson,2,0,"",""
+ball,1,6.6,Essex,DW Lawrence,RN ten Doeschate,LA Dawson,2,0,"",""
+ball,1,7.1,Essex,RN ten Doeschate,DW Lawrence,Mujeeb Ur Rahman,1,0,"",""
+ball,1,7.2,Essex,DW Lawrence,RN ten Doeschate,Mujeeb Ur Rahman,1,0,"",""
+ball,1,7.3,Essex,RN ten Doeschate,DW Lawrence,Mujeeb Ur Rahman,1,0,"",""
+ball,1,7.4,Essex,DW Lawrence,RN ten Doeschate,Mujeeb Ur Rahman,1,0,"",""
+ball,1,7.5,Essex,RN ten Doeschate,DW Lawrence,Mujeeb Ur Rahman,0,0,run out,RN ten Doeschate

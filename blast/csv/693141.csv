@@ -1,0 +1,77 @@
+version,1.3.0
+info,team,Durham
+info,team,Northamptonshire
+info,gender,male
+info,season,2014
+info,date,2014/06/27
+info,competition,NatWest T20 Blast
+info,venue,County Ground
+info,city,Northampton
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,SJ O'Shaughnessy
+info,umpire,RJ Bailey
+info,outcome,no result
+ball,1,0.1,Durham,MD Stoneman,P Mustard,DJ Willey,0,0,"",""
+ball,1,0.2,Durham,MD Stoneman,P Mustard,DJ Willey,1,0,"",""
+ball,1,0.3,Durham,P Mustard,MD Stoneman,DJ Willey,0,0,"",""
+ball,1,0.4,Durham,P Mustard,MD Stoneman,DJ Willey,0,0,"",""
+ball,1,0.5,Durham,P Mustard,MD Stoneman,DJ Willey,0,0,"",""
+ball,1,0.6,Durham,P Mustard,MD Stoneman,DJ Willey,0,0,"",""
+ball,1,1.1,Durham,MD Stoneman,P Mustard,OP Stone,0,1,"",""
+ball,1,1.2,Durham,MD Stoneman,P Mustard,OP Stone,0,0,"",""
+ball,1,1.3,Durham,MD Stoneman,P Mustard,OP Stone,2,0,"",""
+ball,1,1.4,Durham,MD Stoneman,P Mustard,OP Stone,0,0,"",""
+ball,1,1.5,Durham,MD Stoneman,P Mustard,OP Stone,2,0,"",""
+ball,1,1.6,Durham,MD Stoneman,P Mustard,OP Stone,0,1,"",""
+ball,1,1.7,Durham,MD Stoneman,P Mustard,OP Stone,0,0,"",""
+ball,1,1.8,Durham,MD Stoneman,P Mustard,OP Stone,4,0,"",""
+ball,1,2.1,Durham,P Mustard,MD Stoneman,DJ Willey,0,0,bowled,P Mustard
+ball,1,2.2,Durham,CS MacLeod,MD Stoneman,DJ Willey,0,0,"",""
+ball,1,2.3,Durham,CS MacLeod,MD Stoneman,DJ Willey,2,0,"",""
+ball,1,2.4,Durham,CS MacLeod,MD Stoneman,DJ Willey,4,0,"",""
+ball,1,2.5,Durham,CS MacLeod,MD Stoneman,DJ Willey,1,0,"",""
+ball,1,2.6,Durham,MD Stoneman,CS MacLeod,DJ Willey,0,0,"",""
+ball,1,3.1,Durham,CS MacLeod,MD Stoneman,OP Stone,4,0,"",""
+ball,1,3.2,Durham,CS MacLeod,MD Stoneman,OP Stone,4,0,"",""
+ball,1,3.3,Durham,CS MacLeod,MD Stoneman,OP Stone,0,0,"",""
+ball,1,3.4,Durham,CS MacLeod,MD Stoneman,OP Stone,0,0,caught,CS MacLeod
+ball,1,3.5,Durham,PD Collingwood,MD Stoneman,OP Stone,0,0,caught,PD Collingwood
+ball,1,3.6,Durham,MD Stoneman,BA Stokes,OP Stone,0,0,"",""
+ball,1,4.1,Durham,BA Stokes,MD Stoneman,SP Crook,4,0,"",""
+ball,1,4.2,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,"",""
+ball,1,4.3,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,"",""
+ball,1,4.4,Durham,BA Stokes,MD Stoneman,SP Crook,4,0,"",""
+ball,1,4.5,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,"",""
+ball,1,4.6,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,"",""
+ball,1,5.1,Durham,MD Stoneman,BA Stokes,James Middlebrook,2,0,"",""
+ball,1,5.2,Durham,MD Stoneman,BA Stokes,James Middlebrook,2,0,"",""
+ball,1,5.3,Durham,MD Stoneman,BA Stokes,James Middlebrook,4,0,"",""
+ball,1,5.4,Durham,MD Stoneman,BA Stokes,James Middlebrook,0,0,"",""
+ball,1,5.5,Durham,MD Stoneman,BA Stokes,James Middlebrook,0,1,"",""
+ball,1,5.6,Durham,MD Stoneman,BA Stokes,James Middlebrook,1,0,"",""
+ball,1,5.7,Durham,BA Stokes,MD Stoneman,James Middlebrook,0,0,"",""
+ball,1,6.1,Durham,MD Stoneman,BA Stokes,SP Crook,1,0,"",""
+ball,1,6.2,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,"",""
+ball,1,6.3,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,"",""
+ball,1,6.4,Durham,BA Stokes,MD Stoneman,SP Crook,0,0,caught,BA Stokes
+ball,1,6.5,Durham,MD Stoneman,GJ Muchall,SP Crook,1,0,"",""
+ball,1,6.6,Durham,GJ Muchall,MD Stoneman,SP Crook,0,0,"",""
+ball,1,7.1,Durham,MD Stoneman,GJ Muchall,James Middlebrook,1,0,"",""
+ball,1,7.2,Durham,GJ Muchall,MD Stoneman,James Middlebrook,0,0,"",""
+ball,1,7.3,Durham,GJ Muchall,MD Stoneman,James Middlebrook,1,0,"",""
+ball,1,7.4,Durham,MD Stoneman,GJ Muchall,James Middlebrook,1,0,"",""
+ball,1,7.5,Durham,GJ Muchall,MD Stoneman,James Middlebrook,1,0,"",""
+ball,1,7.6,Durham,MD Stoneman,GJ Muchall,James Middlebrook,1,0,"",""
+ball,1,8.1,Durham,MD Stoneman,GJ Muchall,SP Crook,0,0,"",""
+ball,1,8.2,Durham,MD Stoneman,GJ Muchall,SP Crook,1,0,"",""
+ball,1,8.3,Durham,GJ Muchall,MD Stoneman,SP Crook,0,0,"",""
+ball,1,8.4,Durham,GJ Muchall,MD Stoneman,SP Crook,2,0,"",""
+ball,1,8.5,Durham,GJ Muchall,MD Stoneman,SP Crook,1,0,"",""
+ball,1,8.6,Durham,MD Stoneman,GJ Muchall,SP Crook,1,0,"",""
+ball,1,9.1,Durham,MD Stoneman,GJ Muchall,Azharullah,1,0,"",""
+ball,1,9.2,Durham,GJ Muchall,MD Stoneman,Azharullah,1,0,"",""
+ball,1,9.3,Durham,MD Stoneman,GJ Muchall,Azharullah,1,0,"",""
+ball,1,9.4,Durham,GJ Muchall,MD Stoneman,Azharullah,2,0,"",""
+ball,1,9.5,Durham,GJ Muchall,MD Stoneman,Azharullah,4,0,"",""
+ball,1,9.6,Durham,GJ Muchall,MD Stoneman,Azharullah,4,0,"",""

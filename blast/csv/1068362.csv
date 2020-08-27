@@ -1,0 +1,105 @@
+version,1.3.0
+info,team,Leicestershire
+info,team,Durham
+info,gender,male
+info,season,2017
+info,date,2017/07/28
+info,competition,NatWest T20 Blast
+info,venue,Grace Road
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,bat
+info,player_of_match,PD Collingwood
+info,umpire,JW Lloyds
+info,umpire,RJ Warren
+info,winner,Durham
+info,winner_wickets,6
+ball,1,0.1,Leicestershire,L Ronchi,CS Delport,C Rushworth,4,0,"",""
+ball,1,0.2,Leicestershire,L Ronchi,CS Delport,C Rushworth,0,1,"",""
+ball,1,0.3,Leicestershire,L Ronchi,CS Delport,C Rushworth,0,0,"",""
+ball,1,0.4,Leicestershire,L Ronchi,CS Delport,C Rushworth,0,1,"",""
+ball,1,0.5,Leicestershire,CS Delport,L Ronchi,C Rushworth,0,0,"",""
+ball,1,0.6,Leicestershire,CS Delport,L Ronchi,C Rushworth,4,0,"",""
+ball,1,0.7,Leicestershire,CS Delport,L Ronchi,C Rushworth,0,0,"",""
+ball,1,1.1,Leicestershire,L Ronchi,CS Delport,WJ Weighell,6,0,"",""
+ball,1,1.2,Leicestershire,L Ronchi,CS Delport,WJ Weighell,4,0,"",""
+ball,1,1.3,Leicestershire,L Ronchi,CS Delport,WJ Weighell,4,0,"",""
+ball,1,1.4,Leicestershire,L Ronchi,CS Delport,WJ Weighell,4,0,"",""
+ball,1,1.5,Leicestershire,L Ronchi,CS Delport,WJ Weighell,4,0,"",""
+ball,1,1.6,Leicestershire,L Ronchi,CS Delport,WJ Weighell,4,0,"",""
+ball,1,2.1,Leicestershire,CS Delport,L Ronchi,PD Collingwood,1,0,"",""
+ball,1,2.2,Leicestershire,L Ronchi,CS Delport,PD Collingwood,1,0,"",""
+ball,1,2.3,Leicestershire,CS Delport,L Ronchi,PD Collingwood,1,0,"",""
+ball,1,2.4,Leicestershire,L Ronchi,CS Delport,PD Collingwood,1,0,"",""
+ball,1,2.5,Leicestershire,CS Delport,L Ronchi,PD Collingwood,1,0,"",""
+ball,1,2.6,Leicestershire,L Ronchi,CS Delport,PD Collingwood,1,0,"",""
+ball,1,3.1,Leicestershire,L Ronchi,CS Delport,P Coughlin,6,0,"",""
+ball,1,3.2,Leicestershire,L Ronchi,CS Delport,P Coughlin,4,0,"",""
+ball,1,3.3,Leicestershire,L Ronchi,CS Delport,P Coughlin,0,1,"",""
+ball,1,3.4,Leicestershire,L Ronchi,CS Delport,P Coughlin,4,0,"",""
+ball,1,3.5,Leicestershire,L Ronchi,CS Delport,P Coughlin,4,0,"",""
+ball,1,3.6,Leicestershire,L Ronchi,CS Delport,P Coughlin,1,0,"",""
+ball,1,3.7,Leicestershire,CS Delport,L Ronchi,P Coughlin,0,0,caught,CS Delport
+ball,1,4.1,Leicestershire,TJ Wells,L Ronchi,PD Collingwood,1,0,"",""
+ball,1,4.2,Leicestershire,L Ronchi,TJ Wells,PD Collingwood,1,0,"",""
+ball,1,4.3,Leicestershire,TJ Wells,L Ronchi,PD Collingwood,6,0,"",""
+ball,1,4.4,Leicestershire,TJ Wells,L Ronchi,PD Collingwood,0,0,"",""
+ball,1,4.5,Leicestershire,TJ Wells,L Ronchi,PD Collingwood,1,0,"",""
+ball,1,4.6,Leicestershire,L Ronchi,TJ Wells,PD Collingwood,4,0,"",""
+ball,1,5.1,Leicestershire,TJ Wells,L Ronchi,BJ McCarthy,0,0,"",""
+ball,1,5.2,Leicestershire,TJ Wells,L Ronchi,BJ McCarthy,0,0,"",""
+ball,1,5.3,Leicestershire,TJ Wells,L Ronchi,BJ McCarthy,0,0,"",""
+ball,1,5.4,Leicestershire,TJ Wells,L Ronchi,BJ McCarthy,0,0,"",""
+ball,1,5.5,Leicestershire,TJ Wells,L Ronchi,BJ McCarthy,0,0,"",""
+ball,1,5.6,Leicestershire,TJ Wells,L Ronchi,BJ McCarthy,1,0,"",""
+ball,1,6.1,Leicestershire,TJ Wells,L Ronchi,P Coughlin,1,0,"",""
+ball,1,6.2,Leicestershire,L Ronchi,TJ Wells,P Coughlin,0,1,"",""
+ball,1,6.3,Leicestershire,L Ronchi,TJ Wells,P Coughlin,0,1,"",""
+ball,1,6.4,Leicestershire,TJ Wells,L Ronchi,P Coughlin,2,0,"",""
+ball,1,6.5,Leicestershire,TJ Wells,L Ronchi,P Coughlin,0,0,bowled,TJ Wells
+ball,1,6.6,Leicestershire,MJ Cosgrove,L Ronchi,P Coughlin,0,1,"",""
+ball,1,6.7,Leicestershire,L Ronchi,MJ Cosgrove,P Coughlin,6,0,"",""
+ball,2,0.1,Durham,CT Steel,G Clark,D Klein,4,0,"",""
+ball,2,0.2,Durham,CT Steel,G Clark,D Klein,0,0,"",""
+ball,2,0.3,Durham,CT Steel,G Clark,D Klein,0,0,"",""
+ball,2,0.4,Durham,CT Steel,G Clark,D Klein,0,0,bowled,CT Steel
+ball,2,0.5,Durham,PD Collingwood,G Clark,D Klein,1,0,"",""
+ball,2,0.6,Durham,G Clark,PD Collingwood,D Klein,4,0,"",""
+ball,2,1.1,Durham,PD Collingwood,G Clark,MW Pillans,0,1,"",""
+ball,2,1.2,Durham,G Clark,PD Collingwood,MW Pillans,0,0,"",""
+ball,2,1.3,Durham,G Clark,PD Collingwood,MW Pillans,0,0,caught,G Clark
+ball,2,1.4,Durham,PD Collingwood,P Coughlin,MW Pillans,1,0,"",""
+ball,2,1.5,Durham,P Coughlin,PD Collingwood,MW Pillans,6,0,"",""
+ball,2,1.6,Durham,P Coughlin,PD Collingwood,MW Pillans,0,1,"",""
+ball,2,2.1,Durham,P Coughlin,PD Collingwood,CF Parkinson,4,0,"",""
+ball,2,2.2,Durham,P Coughlin,PD Collingwood,CF Parkinson,0,0,"",""
+ball,2,2.3,Durham,P Coughlin,PD Collingwood,CF Parkinson,1,0,"",""
+ball,2,2.4,Durham,PD Collingwood,P Coughlin,CF Parkinson,4,0,"",""
+ball,2,2.5,Durham,PD Collingwood,P Coughlin,CF Parkinson,0,1,"",""
+ball,2,2.6,Durham,P Coughlin,PD Collingwood,CF Parkinson,2,0,"",""
+ball,2,3.1,Durham,PD Collingwood,P Coughlin,GT Griffiths,6,0,"",""
+ball,2,3.2,Durham,PD Collingwood,P Coughlin,GT Griffiths,6,0,"",""
+ball,2,3.3,Durham,PD Collingwood,P Coughlin,GT Griffiths,0,0,"",""
+ball,2,3.4,Durham,PD Collingwood,P Coughlin,GT Griffiths,1,0,"",""
+ball,2,3.5,Durham,P Coughlin,PD Collingwood,GT Griffiths,1,0,"",""
+ball,2,3.6,Durham,PD Collingwood,P Coughlin,GT Griffiths,1,0,"",""
+ball,2,4.1,Durham,PD Collingwood,P Coughlin,CS Delport,1,0,"",""
+ball,2,4.2,Durham,P Coughlin,PD Collingwood,CS Delport,2,0,"",""
+ball,2,4.3,Durham,P Coughlin,PD Collingwood,CS Delport,1,0,"",""
+ball,2,4.4,Durham,PD Collingwood,P Coughlin,CS Delport,0,2,"",""
+ball,2,4.5,Durham,PD Collingwood,P Coughlin,CS Delport,1,0,"",""
+ball,2,4.6,Durham,P Coughlin,PD Collingwood,CS Delport,1,0,"",""
+ball,2,4.7,Durham,PD Collingwood,P Coughlin,CS Delport,4,0,"",""
+ball,2,5.1,Durham,P Coughlin,PD Collingwood,MW Pillans,2,0,"",""
+ball,2,5.2,Durham,P Coughlin,PD Collingwood,MW Pillans,6,2,"",""
+ball,2,5.3,Durham,P Coughlin,PD Collingwood,MW Pillans,2,0,"",""
+ball,2,5.4,Durham,P Coughlin,PD Collingwood,MW Pillans,1,0,"",""
+ball,2,5.5,Durham,PD Collingwood,P Coughlin,MW Pillans,1,2,"",""
+ball,2,5.6,Durham,P Coughlin,PD Collingwood,MW Pillans,1,0,"",""
+ball,2,5.7,Durham,PD Collingwood,P Coughlin,MW Pillans,6,0,"",""
+ball,2,5.8,Durham,PD Collingwood,P Coughlin,MW Pillans,0,1,"",""
+ball,2,6.1,Durham,PD Collingwood,P Coughlin,GT Griffiths,1,0,"",""
+ball,2,6.2,Durham,P Coughlin,PD Collingwood,GT Griffiths,4,0,"",""
+ball,2,6.3,Durham,P Coughlin,PD Collingwood,GT Griffiths,0,0,run out,PD Collingwood
+ball,2,6.4,Durham,JTA Burnham,P Coughlin,GT Griffiths,0,0,run out,JTA Burnham
+ball,2,6.5,Durham,P Coughlin,MJ Richardson,GT Griffiths,4,0,"",""

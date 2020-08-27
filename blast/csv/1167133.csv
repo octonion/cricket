@@ -1,0 +1,108 @@
+version,1.3.0
+info,team,Gloucestershire
+info,team,Glamorgan
+info,gender,male
+info,season,2019
+info,date,2019/07/19
+info,competition,Vitality Blast
+info,venue,College Ground
+info,city,Cheltenham
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,NGB Cook
+info,umpire,RJ Warren
+info,outcome,no result
+ball,1,0.1,Glamorgan,DL Lloyd,JL Lawlor,DA Payne,0,0,"",""
+ball,1,0.2,Glamorgan,DL Lloyd,JL Lawlor,DA Payne,0,0,"",""
+ball,1,0.3,Glamorgan,DL Lloyd,JL Lawlor,DA Payne,4,0,"",""
+ball,1,0.4,Glamorgan,DL Lloyd,JL Lawlor,DA Payne,0,0,"",""
+ball,1,0.5,Glamorgan,DL Lloyd,JL Lawlor,DA Payne,1,0,"",""
+ball,1,0.6,Glamorgan,JL Lawlor,DL Lloyd,DA Payne,0,0,"",""
+ball,1,1.1,Glamorgan,DL Lloyd,JL Lawlor,MD Taylor,4,0,"",""
+ball,1,1.2,Glamorgan,DL Lloyd,JL Lawlor,MD Taylor,0,0,"",""
+ball,1,1.3,Glamorgan,DL Lloyd,JL Lawlor,MD Taylor,0,0,"",""
+ball,1,1.4,Glamorgan,DL Lloyd,JL Lawlor,MD Taylor,0,0,"",""
+ball,1,1.5,Glamorgan,DL Lloyd,JL Lawlor,MD Taylor,4,0,"",""
+ball,1,1.6,Glamorgan,DL Lloyd,JL Lawlor,MD Taylor,4,0,"",""
+ball,1,2.1,Glamorgan,JL Lawlor,DL Lloyd,DA Payne,0,0,"",""
+ball,1,2.2,Glamorgan,JL Lawlor,DL Lloyd,DA Payne,0,0,caught,JL Lawlor
+ball,1,2.3,Glamorgan,DL Lloyd,CA Ingram,DA Payne,0,0,"",""
+ball,1,2.4,Glamorgan,DL Lloyd,CA Ingram,DA Payne,0,0,"",""
+ball,1,2.5,Glamorgan,DL Lloyd,CA Ingram,DA Payne,0,4,"",""
+ball,1,2.6,Glamorgan,DL Lloyd,CA Ingram,DA Payne,0,0,"",""
+ball,1,3.1,Glamorgan,CA Ingram,DL Lloyd,RF Higgins,0,0,"",""
+ball,1,3.2,Glamorgan,CA Ingram,DL Lloyd,RF Higgins,0,0,"",""
+ball,1,3.3,Glamorgan,CA Ingram,DL Lloyd,RF Higgins,4,0,"",""
+ball,1,3.4,Glamorgan,CA Ingram,DL Lloyd,RF Higgins,6,0,"",""
+ball,1,3.5,Glamorgan,CA Ingram,DL Lloyd,RF Higgins,0,0,"",""
+ball,1,3.6,Glamorgan,CA Ingram,DL Lloyd,RF Higgins,1,0,"",""
+ball,1,4.1,Glamorgan,CA Ingram,DL Lloyd,MD Taylor,0,0,"",""
+ball,1,4.2,Glamorgan,CA Ingram,DL Lloyd,MD Taylor,0,1,"",""
+ball,1,4.3,Glamorgan,DL Lloyd,CA Ingram,MD Taylor,1,0,"",""
+ball,1,4.4,Glamorgan,CA Ingram,DL Lloyd,MD Taylor,0,0,"",""
+ball,1,4.5,Glamorgan,CA Ingram,DL Lloyd,MD Taylor,0,1,"",""
+ball,1,4.6,Glamorgan,DL Lloyd,CA Ingram,MD Taylor,1,0,"",""
+ball,1,5.1,Glamorgan,DL Lloyd,CA Ingram,AJ Tye,1,0,"",""
+ball,1,5.2,Glamorgan,CA Ingram,DL Lloyd,AJ Tye,6,0,"",""
+ball,1,5.3,Glamorgan,CA Ingram,DL Lloyd,AJ Tye,0,0,caught,CA Ingram
+ball,1,5.4,Glamorgan,DL Lloyd,WT Root,AJ Tye,1,0,"",""
+ball,1,5.5,Glamorgan,WT Root,DL Lloyd,AJ Tye,0,0,"",""
+ball,1,5.6,Glamorgan,WT Root,DL Lloyd,AJ Tye,0,0,"",""
+ball,1,6.1,Glamorgan,DL Lloyd,WT Root,BAC Howell,0,0,caught,DL Lloyd
+ball,1,6.2,Glamorgan,WT Root,AO Morgan,BAC Howell,0,0,run out,AO Morgan
+ball,1,6.3,Glamorgan,CB Cooke,WT Root,BAC Howell,0,0,"",""
+ball,1,6.4,Glamorgan,CB Cooke,WT Root,BAC Howell,0,0,"",""
+ball,1,6.5,Glamorgan,CB Cooke,WT Root,BAC Howell,1,0,"",""
+ball,1,6.6,Glamorgan,WT Root,CB Cooke,BAC Howell,0,0,"",""
+ball,1,7.1,Glamorgan,CB Cooke,WT Root,MD Taylor,0,0,"",""
+ball,1,7.2,Glamorgan,CB Cooke,WT Root,MD Taylor,1,0,"",""
+ball,1,7.3,Glamorgan,WT Root,CB Cooke,MD Taylor,1,0,"",""
+ball,1,7.4,Glamorgan,CB Cooke,WT Root,MD Taylor,0,0,"",""
+ball,1,7.5,Glamorgan,CB Cooke,WT Root,MD Taylor,2,0,"",""
+ball,1,7.6,Glamorgan,CB Cooke,WT Root,MD Taylor,1,0,"",""
+ball,1,8.1,Glamorgan,CB Cooke,WT Root,BAC Howell,2,0,"",""
+ball,1,8.2,Glamorgan,CB Cooke,WT Root,BAC Howell,1,0,"",""
+ball,1,8.3,Glamorgan,WT Root,CB Cooke,BAC Howell,0,1,"",""
+ball,1,8.4,Glamorgan,CB Cooke,WT Root,BAC Howell,4,0,"",""
+ball,1,8.5,Glamorgan,CB Cooke,WT Root,BAC Howell,4,0,"",""
+ball,1,8.6,Glamorgan,CB Cooke,WT Root,BAC Howell,0,0,bowled,CB Cooke
+ball,1,9.1,Glamorgan,WT Root,DA Douthwaite,RF Higgins,1,0,"",""
+ball,1,9.2,Glamorgan,DA Douthwaite,WT Root,RF Higgins,0,0,"",""
+ball,1,9.3,Glamorgan,DA Douthwaite,WT Root,RF Higgins,1,0,"",""
+ball,1,9.4,Glamorgan,WT Root,DA Douthwaite,RF Higgins,4,0,"",""
+ball,1,9.5,Glamorgan,WT Root,DA Douthwaite,RF Higgins,1,0,"",""
+ball,1,9.6,Glamorgan,DA Douthwaite,WT Root,RF Higgins,1,0,"",""
+ball,1,10.1,Glamorgan,DA Douthwaite,WT Root,BAC Howell,1,0,"",""
+ball,1,10.2,Glamorgan,WT Root,DA Douthwaite,BAC Howell,2,0,"",""
+ball,1,10.3,Glamorgan,WT Root,DA Douthwaite,BAC Howell,0,0,lbw,WT Root
+ball,1,10.4,Glamorgan,GG Wagg,DA Douthwaite,BAC Howell,0,0,"",""
+ball,1,10.5,Glamorgan,GG Wagg,DA Douthwaite,BAC Howell,2,0,"",""
+ball,1,10.6,Glamorgan,GG Wagg,DA Douthwaite,BAC Howell,0,0,"",""
+ball,1,11.1,Glamorgan,DA Douthwaite,GG Wagg,TMJ Smith,1,0,"",""
+ball,1,11.2,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,0,0,"",""
+ball,1,11.3,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,1,0,"",""
+ball,1,11.4,Glamorgan,DA Douthwaite,GG Wagg,TMJ Smith,0,0,"",""
+ball,1,11.5,Glamorgan,DA Douthwaite,GG Wagg,TMJ Smith,1,0,"",""
+ball,1,11.6,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,1,0,"",""
+ball,1,12.1,Glamorgan,GG Wagg,DA Douthwaite,AJ Tye,1,0,"",""
+ball,1,12.2,Glamorgan,DA Douthwaite,GG Wagg,AJ Tye,4,0,"",""
+ball,1,12.3,Glamorgan,DA Douthwaite,GG Wagg,AJ Tye,0,1,"",""
+ball,1,12.4,Glamorgan,DA Douthwaite,GG Wagg,AJ Tye,1,0,"",""
+ball,1,12.5,Glamorgan,GG Wagg,DA Douthwaite,AJ Tye,1,0,"",""
+ball,1,12.6,Glamorgan,DA Douthwaite,GG Wagg,AJ Tye,1,0,"",""
+ball,1,12.7,Glamorgan,GG Wagg,DA Douthwaite,AJ Tye,1,0,"",""
+ball,1,13.1,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,1,0,"",""
+ball,1,13.2,Glamorgan,DA Douthwaite,GG Wagg,TMJ Smith,1,0,"",""
+ball,1,13.3,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,0,0,"",""
+ball,1,13.4,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,1,0,"",""
+ball,1,13.5,Glamorgan,DA Douthwaite,GG Wagg,TMJ Smith,1,0,"",""
+ball,1,13.6,Glamorgan,GG Wagg,DA Douthwaite,TMJ Smith,1,0,"",""
+ball,1,14.1,Glamorgan,GG Wagg,DA Douthwaite,BAC Howell,0,0,caught,GG Wagg
+ball,1,14.2,Glamorgan,DA Douthwaite,AG Salter,BAC Howell,0,0,"",""
+ball,1,14.3,Glamorgan,DA Douthwaite,AG Salter,BAC Howell,0,0,caught,DA Douthwaite
+ball,1,14.4,Glamorgan,AG Salter,M de Lange,BAC Howell,0,0,"",""
+ball,1,14.5,Glamorgan,AG Salter,M de Lange,BAC Howell,1,0,"",""
+ball,1,14.6,Glamorgan,M de Lange,AG Salter,BAC Howell,0,0,"",""
+ball,1,15.1,Glamorgan,AG Salter,M de Lange,AJ Tye,0,0,"",""
+ball,1,15.2,Glamorgan,AG Salter,M de Lange,AJ Tye,0,0,"",""
+ball,1,15.3,Glamorgan,AG Salter,M de Lange,AJ Tye,0,1,"",""

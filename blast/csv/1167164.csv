@@ -1,0 +1,86 @@
+version,1.3.0
+info,team,Surrey
+info,team,Kent
+info,gender,male
+info,season,2019
+info,date,2019/07/30
+info,competition,Vitality Blast
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,Kent
+info,toss_decision,field
+info,player_of_match,Mohammad Nabi
+info,umpire,NA Mallender
+info,umpire,RJ Warren
+info,tv_umpire,JW Lloyds
+info,winner,Kent
+info,winner_wickets,9
+info,method,D/L
+ball,1,0.1,Surrey,WG Jacks,AJ Finch,AF Milne,0,0,"",""
+ball,1,0.2,Surrey,WG Jacks,AJ Finch,AF Milne,0,0,"",""
+ball,1,0.3,Surrey,WG Jacks,AJ Finch,AF Milne,0,2,"",""
+ball,1,0.4,Surrey,WG Jacks,AJ Finch,AF Milne,0,1,"",""
+ball,1,0.5,Surrey,AJ Finch,WG Jacks,AF Milne,0,0,"",""
+ball,1,0.6,Surrey,AJ Finch,WG Jacks,AF Milne,0,0,"",""
+ball,1,1.1,Surrey,WG Jacks,AJ Finch,GC Viljoen,4,0,"",""
+ball,1,1.2,Surrey,WG Jacks,AJ Finch,GC Viljoen,1,0,"",""
+ball,1,1.3,Surrey,AJ Finch,WG Jacks,GC Viljoen,1,0,"",""
+ball,1,1.4,Surrey,WG Jacks,AJ Finch,GC Viljoen,0,0,caught,WG Jacks
+ball,1,1.5,Surrey,OJ Pope,AJ Finch,GC Viljoen,0,0,"",""
+ball,1,1.6,Surrey,OJ Pope,AJ Finch,GC Viljoen,0,0,"",""
+ball,1,2.1,Surrey,AJ Finch,OJ Pope,FJ Klaassen,4,0,"",""
+ball,1,2.2,Surrey,AJ Finch,OJ Pope,FJ Klaassen,1,0,"",""
+ball,1,2.3,Surrey,OJ Pope,AJ Finch,FJ Klaassen,4,0,"",""
+ball,1,2.4,Surrey,OJ Pope,AJ Finch,FJ Klaassen,1,0,"",""
+ball,1,2.5,Surrey,AJ Finch,OJ Pope,FJ Klaassen,2,0,"",""
+ball,1,2.6,Surrey,AJ Finch,OJ Pope,FJ Klaassen,1,0,"",""
+ball,1,3.1,Surrey,AJ Finch,OJ Pope,Mohammad Nabi,6,0,"",""
+ball,1,3.2,Surrey,AJ Finch,OJ Pope,Mohammad Nabi,1,0,"",""
+ball,1,3.3,Surrey,OJ Pope,AJ Finch,Mohammad Nabi,0,0,caught,OJ Pope
+ball,1,3.4,Surrey,AJ Finch,J Clark,Mohammad Nabi,2,0,"",""
+ball,1,3.5,Surrey,AJ Finch,J Clark,Mohammad Nabi,0,1,"",""
+ball,1,3.6,Surrey,AJ Finch,J Clark,Mohammad Nabi,1,0,"",""
+ball,1,3.7,Surrey,J Clark,AJ Finch,Mohammad Nabi,1,0,"",""
+ball,1,4.1,Surrey,J Clark,AJ Finch,GC Viljoen,0,0,bowled,J Clark
+ball,1,4.2,Surrey,TK Curran,AJ Finch,GC Viljoen,1,0,"",""
+ball,1,4.3,Surrey,AJ Finch,TK Curran,GC Viljoen,2,0,"",""
+ball,1,4.4,Surrey,AJ Finch,TK Curran,GC Viljoen,1,0,"",""
+ball,1,4.5,Surrey,TK Curran,AJ Finch,GC Viljoen,0,0,"",""
+ball,1,4.6,Surrey,TK Curran,AJ Finch,GC Viljoen,0,0,"",""
+ball,1,5.1,Surrey,AJ Finch,TK Curran,FJ Klaassen,2,0,"",""
+ball,1,5.2,Surrey,AJ Finch,TK Curran,FJ Klaassen,1,0,"",""
+ball,1,5.3,Surrey,TK Curran,AJ Finch,FJ Klaassen,1,0,"",""
+ball,1,5.4,Surrey,AJ Finch,TK Curran,FJ Klaassen,2,0,"",""
+ball,1,5.5,Surrey,AJ Finch,TK Curran,FJ Klaassen,1,0,"",""
+ball,1,5.6,Surrey,TK Curran,AJ Finch,FJ Klaassen,0,0,"",""
+ball,1,6.1,Surrey,AJ Finch,TK Curran,AF Milne,6,0,"",""
+ball,1,6.2,Surrey,AJ Finch,TK Curran,AF Milne,1,0,"",""
+ball,1,6.3,Surrey,TK Curran,AJ Finch,AF Milne,0,0,caught,TK Curran
+ball,1,6.4,Surrey,AJ Finch,R Clarke,AF Milne,1,0,"",""
+ball,1,6.5,Surrey,R Clarke,AJ Finch,AF Milne,0,0,"",""
+ball,1,6.6,Surrey,R Clarke,AJ Finch,AF Milne,0,1,"",""
+ball,2,0.1,Kent,HG Kuhn,DJ Bell-Drummond,Imran Tahir,1,0,"",""
+ball,2,0.2,Kent,DJ Bell-Drummond,HG Kuhn,Imran Tahir,0,0,"",""
+ball,2,0.3,Kent,DJ Bell-Drummond,HG Kuhn,Imran Tahir,1,0,"",""
+ball,2,0.4,Kent,HG Kuhn,DJ Bell-Drummond,Imran Tahir,0,0,"",""
+ball,2,0.5,Kent,HG Kuhn,DJ Bell-Drummond,Imran Tahir,1,0,"",""
+ball,2,0.6,Kent,DJ Bell-Drummond,HG Kuhn,Imran Tahir,0,0,lbw,DJ Bell-Drummond
+ball,2,1.1,Kent,HG Kuhn,Mohammad Nabi,TK Curran,1,0,"",""
+ball,2,1.2,Kent,Mohammad Nabi,HG Kuhn,TK Curran,4,0,"",""
+ball,2,1.3,Kent,Mohammad Nabi,HG Kuhn,TK Curran,1,0,"",""
+ball,2,1.4,Kent,HG Kuhn,Mohammad Nabi,TK Curran,4,0,"",""
+ball,2,1.5,Kent,HG Kuhn,Mohammad Nabi,TK Curran,1,0,"",""
+ball,2,1.6,Kent,Mohammad Nabi,HG Kuhn,TK Curran,0,0,"",""
+ball,2,2.1,Kent,HG Kuhn,Mohammad Nabi,R Clarke,1,0,"",""
+ball,2,2.2,Kent,Mohammad Nabi,HG Kuhn,R Clarke,6,0,"",""
+ball,2,2.3,Kent,Mohammad Nabi,HG Kuhn,R Clarke,6,0,"",""
+ball,2,2.4,Kent,Mohammad Nabi,HG Kuhn,R Clarke,0,0,"",""
+ball,2,2.5,Kent,Mohammad Nabi,HG Kuhn,R Clarke,2,0,"",""
+ball,2,2.6,Kent,Mohammad Nabi,HG Kuhn,R Clarke,6,0,"",""
+ball,2,3.1,Kent,HG Kuhn,Mohammad Nabi,Imran Tahir,0,0,"",""
+ball,2,3.2,Kent,HG Kuhn,Mohammad Nabi,Imran Tahir,0,1,"",""
+ball,2,3.3,Kent,Mohammad Nabi,HG Kuhn,Imran Tahir,0,1,"",""
+ball,2,3.4,Kent,Mohammad Nabi,HG Kuhn,Imran Tahir,2,0,"",""
+ball,2,3.5,Kent,Mohammad Nabi,HG Kuhn,Imran Tahir,6,0,"",""
+ball,2,3.6,Kent,Mohammad Nabi,HG Kuhn,Imran Tahir,4,0,"",""
+ball,2,3.7,Kent,Mohammad Nabi,HG Kuhn,Imran Tahir,6,0,"",""
