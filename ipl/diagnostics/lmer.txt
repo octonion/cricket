@@ -93,7 +93,7 @@ iteration: 44
 iteration: 45
 	f(x) = -39.772703
 iteration: 46
-	f(x) = -39.408435
+	f(x) = -39.408436
 iteration: 47
 	f(x) = -39.581462
 iteration: 48
@@ -113,13 +113,13 @@ iteration: 54
 iteration: 55
 	f(x) = -41.498368
 iteration: 56
-	f(x) = -41.657616
+	f(x) = -41.657617
 iteration: 57
 	f(x) = -41.796294
 iteration: 58
 	f(x) = -41.320622
 iteration: 59
-	f(x) = -41.511503
+	f(x) = -41.511504
 iteration: 60
 	f(x) = -41.832165
 iteration: 61
