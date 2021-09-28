@@ -9,8 +9,8 @@ sf2.team_id as away,
 (exp(i.estimate)*sf2.offensive*d.exp_factor*sf1.defensive)::numeric(5,1) as e_away,
 ((exp(i.estimate)*sf1.offensive*o.exp_factor*sf2.defensive)-
 (exp(i.estimate)*sf2.offensive*d.exp_factor*sf1.defensive))::numeric(5,1) as e_d,
-20*(((exp(i.estimate)*sf1.offensive*o.exp_factor*sf2.defensive)-
-(exp(i.estimate)*sf2.offensive*d.exp_factor*sf1.defensive)))::numeric(5,1) as e_rd
+(20*(((exp(i.estimate)*sf1.offensive*o.exp_factor*sf2.defensive)-
+(exp(i.estimate)*sf2.offensive*d.exp_factor*sf1.defensive))))::numeric(5,1) as e_rd
 
 from ipl.games g
 join ipl._schedule_factors sf1
