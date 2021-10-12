@@ -1,8 +1,8 @@
 BEGIN
-    date    |            home             |         away          | e_home | e_away | e_d | e_rd 
-------------+-----------------------------+-----------------------+--------+--------+-----+------
- 2021-10-10 | Delhi Capitals              | Chennai Super Kings   |    8.1 |    7.7 | 0.4 | 7.13
- 2021-10-11 | Royal Challengers Bangalore | Kolkata Knight Riders |    7.9 |    7.9 | 0.0 | 0.02
+    date    |            home             |         away          | e_home | e_away | e_d | e_rd  
+------------+-----------------------------+-----------------------+--------+--------+-----+-------
+ 2021-10-11 | Royal Challengers Bangalore | Kolkata Knight Riders |    7.9 |    7.9 | 0.0 | -0.47
+ 2021-10-13 | Delhi Capitals              | Kolkata Knight Riders |    7.9 |    7.7 | 0.1 |  2.60
 (2 rows)
 
 COPY 2
