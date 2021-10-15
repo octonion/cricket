@@ -1,186 +1,170 @@
-[1] 116   7
-[1] 116   7
+[1] 118   7
+[1] 118   7
 [1] TRUE
-[1] 116   5
+[1] 118   5
 iteration: 1
-	f(x) = -26.569376
+	f(x) = -27.939930
 iteration: 2
-	f(x) = 11.109282
+	f(x) = 10.827181
 iteration: 3
-	f(x) = -22.395925
+	f(x) = -23.658493
 iteration: 4
-	f(x) = -23.023663
+	f(x) = -24.442892
 iteration: 5
-	f(x) = -37.578350
+	f(x) = -39.722477
 iteration: 6
-	f(x) = -28.527159
+	f(x) = -29.795605
 iteration: 7
-	f(x) = -28.732058
+	f(x) = -30.109760
 iteration: 8
-	f(x) = -46.542284
+	f(x) = -48.426279
 iteration: 9
-	f(x) = -41.281118
+	f(x) = -42.841032
 iteration: 10
-	f(x) = -36.936648
+	f(x) = -38.661691
 iteration: 11
-	f(x) = -45.446580
+	f(x) = -47.110085
 iteration: 12
-	f(x) = -48.457522
+	f(x) = -50.672218
 iteration: 13
-	f(x) = -48.788571
+	f(x) = -51.034527
 iteration: 14
-	f(x) = -48.413582
+	f(x) = -50.676154
 iteration: 15
-	f(x) = -48.646799
+	f(x) = -50.964547
 iteration: 16
-	f(x) = -48.523128
+	f(x) = -50.726862
 iteration: 17
-	f(x) = -48.819999
+	f(x) = -51.011965
 iteration: 18
-	f(x) = -48.867185
+	f(x) = -50.580085
 iteration: 19
-	f(x) = -48.815093
+	f(x) = -51.111274
 iteration: 20
-	f(x) = -48.866249
+	f(x) = -51.104062
 iteration: 21
-	f(x) = -48.842837
+	f(x) = -51.106448
 iteration: 22
-	f(x) = -48.877579
+	f(x) = -51.121934
 iteration: 23
-	f(x) = -48.848873
+	f(x) = -51.138889
 iteration: 24
-	f(x) = -48.879622
+	f(x) = -51.149279
 iteration: 25
-	f(x) = -48.884973
+	f(x) = -51.157975
 iteration: 26
-	f(x) = -48.883381
+	f(x) = -51.158835
 iteration: 27
-	f(x) = -48.882888
+	f(x) = -51.158776
 iteration: 28
-	f(x) = -48.885764
+	f(x) = -51.159129
 iteration: 29
-	f(x) = -48.885526
+	f(x) = -51.154874
 iteration: 30
-	f(x) = -48.885591
+	f(x) = -51.159173
 iteration: 31
-	f(x) = -48.886089
+	f(x) = -51.159232
 iteration: 32
-	f(x) = -48.886740
+	f(x) = -51.159241
 iteration: 33
-	f(x) = -48.887881
+	f(x) = -51.159217
 iteration: 34
-	f(x) = -48.889567
+	f(x) = -51.159240
 iteration: 35
-	f(x) = -48.890713
+	f(x) = -51.159243
 iteration: 36
-	f(x) = -48.881871
+	f(x) = -51.159246
 iteration: 37
-	f(x) = -48.891821
+	f(x) = -51.159250
 iteration: 38
-	f(x) = -48.891149
+	f(x) = -51.159250
 iteration: 39
-	f(x) = -48.892294
+	f(x) = -51.159253
 iteration: 40
-	f(x) = -48.892677
+	f(x) = -51.159255
 iteration: 41
-	f(x) = -48.893125
+	f(x) = -51.159254
 iteration: 42
-	f(x) = -48.893300
+	f(x) = -51.159256
 iteration: 43
-	f(x) = -48.893267
+	f(x) = -51.159258
 iteration: 44
-	f(x) = -48.893083
+	f(x) = -51.159261
 iteration: 45
-	f(x) = -48.893495
+	f(x) = -51.159264
 iteration: 46
-	f(x) = -48.893623
+	f(x) = -51.159266
 iteration: 47
-	f(x) = -48.893585
+	f(x) = -51.159266
 iteration: 48
-	f(x) = -48.893655
+	f(x) = -51.159265
 iteration: 49
-	f(x) = -48.893706
+	f(x) = -51.159266
 iteration: 50
-	f(x) = -48.893741
+	f(x) = -51.159266
 iteration: 51
-	f(x) = -48.893800
+	f(x) = -51.159264
 iteration: 52
-	f(x) = -48.893825
+	f(x) = -51.159267
 iteration: 53
-	f(x) = -48.893834
+	f(x) = -51.159268
 iteration: 54
-	f(x) = -48.893840
+	f(x) = -51.159268
 iteration: 55
-	f(x) = -48.893817
+	f(x) = -51.159268
 iteration: 56
-	f(x) = -48.893806
+	f(x) = -51.159268
 iteration: 57
-	f(x) = -48.893839
+	f(x) = -51.159268
 iteration: 58
-	f(x) = -48.893845
+	f(x) = -51.159268
 iteration: 59
-	f(x) = -48.893845
+	f(x) = -51.159267
 iteration: 60
-	f(x) = -48.893845
-iteration: 61
-	f(x) = -48.893845
-iteration: 62
-	f(x) = -48.893845
-iteration: 63
-	f(x) = -48.893845
-iteration: 64
-	f(x) = -48.893845
-iteration: 65
-	f(x) = -48.893845
-iteration: 66
-	f(x) = -48.893845
-iteration: 67
-	f(x) = -48.893845
-iteration: 68
-	f(x) = -48.893845
+	f(x) = -51.159268
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
-REML criterion at convergence: -48.8938
+REML criterion at convergence: -51.1593
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.11514 
- defense  (Intercept) 0.03326 
+ game_id  (Intercept) 0.11569 
+ defense  (Intercept) 0.03624 
  offense  (Intercept) 0.00000 
- Residual             0.15427 
-Number of obs: 116, groups:  game_id, 58; defense, 8; offense, 8
+ Residual             0.15240 
+Number of obs: 118, groups:  game_id, 59; defense, 8; offense, 8
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-          2.05935            0.02783  
+          2.05740            0.02737  
 optimizer (nloptwrap) convergence code: 0 (OK) ; 0 optimizer warnings; 1 lme4 warnings 
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
 
-REML criterion at convergence: -48.9
+REML criterion at convergence: -51.2
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--3.2909 -0.4773  0.0229  0.5283  2.5212 
+-3.3024 -0.4901  0.0142  0.5349  2.5348 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.013257 0.11514 
- defense  (Intercept) 0.001106 0.03326 
+ game_id  (Intercept) 0.013385 0.11569 
+ defense  (Intercept) 0.001313 0.03624 
  offense  (Intercept) 0.000000 0.00000 
- Residual             0.023800 0.15427 
-Number of obs: 116, groups:  game_id, 58; defense, 8; offense, 8
+ Residual             0.023227 0.15240 
+Number of obs: 118, groups:  game_id, 59; defense, 8; offense, 8
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)        2.05935    0.02788  73.856
-fieldoffense_home  0.02783    0.02866   0.971
+(Intercept)        2.05740    0.02803  73.405
+fieldoffense_home  0.02737    0.02810   0.974
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.514
+fildffns_hm -0.501
 optimizer (nloptwrap) convergence code: 0 (OK)
 boundary (singular) fit: see ?isSingular
 
