@@ -1,0 +1,25 @@
+BEGIN
+CREATE TABLE
+INSERT 0 6
+ rk |            team            | str  | ofs  | dfs  | sos  
+----+----------------------------+------+------+------+------
+  1 | Wellington Firebirds       | 1.09 | 1.03 | 0.94 | 0.99
+  2 | Central Stags              | 1.02 | 1.02 | 1.00 | 1.00
+  3 | Canterbury Kings           | 1.01 | 0.99 | 0.98 | 1.01
+  4 | Northern Districts Knights | 1.00 | 0.98 | 0.98 | 1.00
+  5 | Auckland Aces              | 0.96 | 1.02 | 1.06 | 1.01
+  6 | Otago Volts                | 0.93 | 0.97 | 1.04 | 1.01
+(6 rows)
+
+ rk |            team            | str  | ofs  | dfs  | sos  
+----+----------------------------+------+------+------+------
+  1 | Wellington Firebirds       | 1.09 | 1.03 | 0.94 | 0.99
+  2 | Central Stags              | 1.02 | 1.02 | 1.00 | 1.00
+  3 | Canterbury Kings           | 1.01 | 0.99 | 0.98 | 1.01
+  4 | Northern Districts Knights | 1.00 | 0.98 | 0.98 | 1.00
+  5 | Auckland Aces              | 0.96 | 1.02 | 1.06 | 1.01
+  6 | Otago Volts                | 0.93 | 0.97 | 1.04 | 1.01
+(6 rows)
+
+COPY 6
+COMMIT

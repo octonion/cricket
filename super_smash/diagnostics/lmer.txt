@@ -1,0 +1,151 @@
+[1] 64  7
+[1] 64  7
+[1] TRUE
+[1] 64  5
+iteration: 1
+	f(x) = -20.762462
+iteration: 2
+	f(x) = 5.233186
+iteration: 3
+	f(x) = -16.931371
+iteration: 4
+	f(x) = -17.197328
+iteration: 5
+	f(x) = -41.359090
+iteration: 6
+	f(x) = -23.533393
+iteration: 7
+	f(x) = -23.635786
+iteration: 8
+	f(x) = -44.235021
+iteration: 9
+	f(x) = -35.016012
+iteration: 10
+	f(x) = -46.702045
+iteration: 11
+	f(x) = -44.546972
+iteration: 12
+	f(x) = -49.219803
+iteration: 13
+	f(x) = -47.199921
+iteration: 14
+	f(x) = -49.978536
+iteration: 15
+	f(x) = -50.036336
+iteration: 16
+	f(x) = -49.787715
+iteration: 17
+	f(x) = -50.025740
+iteration: 18
+	f(x) = -50.085387
+iteration: 19
+	f(x) = -50.109618
+iteration: 20
+	f(x) = -50.120533
+iteration: 21
+	f(x) = -50.122610
+iteration: 22
+	f(x) = -50.129134
+iteration: 23
+	f(x) = -50.141899
+iteration: 24
+	f(x) = -50.151206
+iteration: 25
+	f(x) = -50.142220
+iteration: 26
+	f(x) = -50.124771
+iteration: 27
+	f(x) = -50.152282
+iteration: 28
+	f(x) = -50.152474
+iteration: 29
+	f(x) = -50.158753
+iteration: 30
+	f(x) = -50.161563
+iteration: 31
+	f(x) = -50.161775
+iteration: 32
+	f(x) = -50.161768
+iteration: 33
+	f(x) = -50.161736
+iteration: 34
+	f(x) = -50.161719
+iteration: 35
+	f(x) = -50.162031
+iteration: 36
+	f(x) = -50.162436
+iteration: 37
+	f(x) = -50.162844
+iteration: 38
+	f(x) = -50.162851
+iteration: 39
+	f(x) = -50.162844
+iteration: 40
+	f(x) = -50.162774
+iteration: 41
+	f(x) = -50.162861
+iteration: 42
+	f(x) = -50.162892
+iteration: 43
+	f(x) = -50.162857
+iteration: 44
+	f(x) = -50.162856
+iteration: 45
+	f(x) = -50.162893
+iteration: 46
+	f(x) = -50.162893
+iteration: 47
+	f(x) = -50.162893
+iteration: 48
+	f(x) = -50.162894
+iteration: 49
+	f(x) = -50.162894
+iteration: 50
+	f(x) = -50.162893
+iteration: 51
+	f(x) = -50.162893
+iteration: 52
+	f(x) = -50.162894
+Linear mixed model fit by REML ['lmerMod']
+Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
+   Data: g
+Weights: w
+REML criterion at convergence: -50.1629
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.08611 
+ defense  (Intercept) 0.05587 
+ offense  (Intercept) 0.03650 
+ Residual             0.12029 
+Number of obs: 64, groups:  game_id, 32; defense, 6; offense, 6
+Fixed Effects:
+      (Intercept)  fieldoffense_home  
+          2.13839            0.02886  
+Linear mixed model fit by REML ['lmerMod']
+Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
+   Data: g
+Weights: w
+
+REML criterion at convergence: -50.2
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-1.93377 -0.55701  0.01514  0.60240  1.58142 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.007415 0.08611 
+ defense  (Intercept) 0.003122 0.05587 
+ offense  (Intercept) 0.001332 0.03650 
+ Residual             0.014469 0.12029 
+Number of obs: 64, groups:  game_id, 32; defense, 6; offense, 6
+
+Fixed effects:
+                  Estimate Std. Error t value
+(Intercept)        2.13839    0.03781  56.554
+fieldoffense_home  0.02886    0.03020   0.956
+
+Correlation of Fixed Effects:
+            (Intr)
+fildffns_hm -0.399
+[1] TRUE
