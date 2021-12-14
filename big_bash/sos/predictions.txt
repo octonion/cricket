@@ -1,15 +1,15 @@
 BEGIN
     date    |        home         |        away         | e_home | e_away | e_d  | e_rd  
 ------------+---------------------+---------------------+--------+--------+------+-------
- 2021-12-13 | Brisbane Heat       | Melbourne Renegades |    8.3 |    7.2 |  1.1 | 22.22
- 2021-12-14 | Hobart Hurricanes   | Perth Scorchers     |    8.5 |    8.0 |  0.4 |  8.51
- 2021-12-15 | Melbourne Stars     | Sydney Sixers       |    8.3 |    8.3 |  0.0 |  0.07
- 2021-12-19 | Brisbane Heat       | Sydney Thunder      |    8.3 |    8.1 |  0.2 |  4.58
- 2021-12-20 | Perth Scorchers     | Hobart Hurricanes   |    8.6 |    7.9 |  0.7 | 14.65
- 2021-12-21 | Sydney Sixers       | Adelaide Strikers   |    8.9 |    7.7 |  1.2 | 24.15
- 2021-12-22 | Melbourne Renegades | Perth Scorchers     |    7.7 |    8.0 | -0.4 | -7.00
- 2021-12-23 | Adelaide Strikers   | Brisbane Heat       |    8.2 |    7.7 |  0.5 |  9.93
- 2021-12-23 | Hobart Hurricanes   | Melbourne Stars     |    8.5 |    7.7 |  0.8 | 15.14
+ 2021-12-13 | Brisbane Heat       | Melbourne Renegades |    8.3 |    7.1 |  1.2 | 23.29
+ 2021-12-14 | Hobart Hurricanes   | Perth Scorchers     |    8.5 |    8.0 |  0.4 |  8.66
+ 2021-12-15 | Melbourne Stars     | Sydney Sixers       |    8.3 |    8.3 |  0.0 |  0.09
+ 2021-12-19 | Brisbane Heat       | Sydney Thunder      |    8.3 |    8.1 |  0.2 |  4.94
+ 2021-12-20 | Perth Scorchers     | Hobart Hurricanes   |    8.6 |    7.9 |  0.7 | 14.88
+ 2021-12-21 | Sydney Sixers       | Adelaide Strikers   |    8.9 |    7.7 |  1.2 | 24.59
+ 2021-12-22 | Melbourne Renegades | Perth Scorchers     |    7.7 |    8.0 | -0.4 | -7.59
+ 2021-12-23 | Adelaide Strikers   | Brisbane Heat       |    8.2 |    7.7 |  0.5 |  9.76
+ 2021-12-23 | Hobart Hurricanes   | Melbourne Stars     |    8.5 |    7.7 |  0.8 | 15.38
 (9 rows)
 
 COPY 9
