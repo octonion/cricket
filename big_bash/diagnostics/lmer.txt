@@ -1,197 +1,181 @@
-[1] 148   7
-[1] 176   7
+[1] 30  7
+[1] 60  7
 [1] TRUE
-[1] 176   5
+[1] 60  5
 iteration: 1
-	f(x) = -119.658011
+	f(x) = -25.945317
 iteration: 2
-	f(x) = -67.587208
+	f(x) = -14.679134
 iteration: 3
-	f(x) = -115.885148
+	f(x) = -21.393735
 iteration: 4
-	f(x) = -114.809360
+	f(x) = -20.553822
 iteration: 5
-	f(x) = -150.629019
+	f(x) = -31.719358
 iteration: 6
-	f(x) = -121.846822
+	f(x) = -29.434796
 iteration: 7
-	f(x) = -118.610193
+	f(x) = -30.550002
 iteration: 8
-	f(x) = -148.842089
+	f(x) = -35.083038
 iteration: 9
-	f(x) = -139.504834
+	f(x) = -41.326609
 iteration: 10
-	f(x) = -148.369675
+	f(x) = -41.272010
 iteration: 11
-	f(x) = -151.036643
+	f(x) = -41.805276
 iteration: 12
-	f(x) = -152.985158
+	f(x) = -41.712442
 iteration: 13
-	f(x) = -155.641441
+	f(x) = -40.356511
 iteration: 14
-	f(x) = -157.143816
+	f(x) = -43.126043
 iteration: 15
-	f(x) = -157.506824
+	f(x) = -43.328291
 iteration: 16
-	f(x) = -157.802898
+	f(x) = -42.287314
 iteration: 17
-	f(x) = -157.613177
+	f(x) = -44.312814
 iteration: 18
-	f(x) = -157.438387
+	f(x) = -45.276243
 iteration: 19
-	f(x) = -157.645759
+	f(x) = -44.744803
 iteration: 20
-	f(x) = -157.829775
+	f(x) = -45.002764
 iteration: 21
-	f(x) = -157.927745
+	f(x) = -45.292932
 iteration: 22
-	f(x) = -158.078593
+	f(x) = -45.253318
 iteration: 23
-	f(x) = -158.094137
+	f(x) = -45.332636
 iteration: 24
-	f(x) = -158.137772
+	f(x) = -45.394808
 iteration: 25
-	f(x) = -158.136519
+	f(x) = -45.460001
 iteration: 26
-	f(x) = -158.128546
+	f(x) = -45.469629
 iteration: 27
-	f(x) = -158.122133
+	f(x) = -45.475740
 iteration: 28
-	f(x) = -158.132723
+	f(x) = -45.468982
 iteration: 29
-	f(x) = -158.139392
+	f(x) = -45.484946
 iteration: 30
-	f(x) = -158.138426
+	f(x) = -45.493610
 iteration: 31
-	f(x) = -158.135890
+	f(x) = -45.497301
 iteration: 32
-	f(x) = -158.140272
+	f(x) = -45.502057
 iteration: 33
-	f(x) = -158.140241
+	f(x) = -45.505938
 iteration: 34
-	f(x) = -158.140263
+	f(x) = -45.500236
 iteration: 35
-	f(x) = -158.140262
+	f(x) = -45.505455
 iteration: 36
-	f(x) = -158.140251
+	f(x) = -45.509911
 iteration: 37
-	f(x) = -158.140276
+	f(x) = -45.509693
 iteration: 38
-	f(x) = -158.140235
+	f(x) = -45.511745
 iteration: 39
-	f(x) = -158.140276
+	f(x) = -45.515095
 iteration: 40
-	f(x) = -158.140275
+	f(x) = -45.517551
 iteration: 41
-	f(x) = -158.140276
+	f(x) = -45.520110
 iteration: 42
-	f(x) = -158.140276
+	f(x) = -45.521857
 iteration: 43
-	f(x) = -158.140276
+	f(x) = -45.522035
 iteration: 44
-	f(x) = -158.140276
+	f(x) = -45.522051
 iteration: 45
-	f(x) = -158.140276
+	f(x) = -45.522375
 iteration: 46
-	f(x) = -158.140277
+	f(x) = -45.522657
 iteration: 47
-	f(x) = -158.140277
+	f(x) = -45.523064
 iteration: 48
-	f(x) = -158.140279
+	f(x) = -45.523572
 iteration: 49
-	f(x) = -158.140283
+	f(x) = -45.523913
 iteration: 50
-	f(x) = -158.140290
+	f(x) = -45.523888
 iteration: 51
-	f(x) = -158.140304
+	f(x) = -45.523928
 iteration: 52
-	f(x) = -158.140334
+	f(x) = -45.523944
 iteration: 53
-	f(x) = -158.140435
+	f(x) = -45.523932
 iteration: 54
-	f(x) = -158.140772
+	f(x) = -45.523958
 iteration: 55
-	f(x) = -158.141963
+	f(x) = -45.523960
 iteration: 56
-	f(x) = -158.144723
+	f(x) = -45.523937
 iteration: 57
-	f(x) = -158.148729
+	f(x) = -45.523966
 iteration: 58
-	f(x) = -158.147215
+	f(x) = -45.523965
 iteration: 59
-	f(x) = -158.146591
+	f(x) = -45.523966
 iteration: 60
-	f(x) = -158.150386
+	f(x) = -45.523969
 iteration: 61
-	f(x) = -158.150461
+	f(x) = -45.523970
 iteration: 62
-	f(x) = -158.148320
+	f(x) = -45.523969
 iteration: 63
-	f(x) = -158.150900
+	f(x) = -45.523970
 iteration: 64
-	f(x) = -158.150902
+	f(x) = -45.523969
 iteration: 65
-	f(x) = -158.150902
-iteration: 66
-	f(x) = -158.150904
-iteration: 67
-	f(x) = -158.150906
-iteration: 68
-	f(x) = -158.150910
-iteration: 69
-	f(x) = -158.150911
-iteration: 70
-	f(x) = -158.150911
-iteration: 71
-	f(x) = -158.150900
-iteration: 72
-	f(x) = -158.150911
-iteration: 73
-	f(x) = -158.150912
-iteration: 74
-	f(x) = -158.150911
-iteration: 75
-	f(x) = -158.150912
+	f(x) = -45.523970
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
-REML criterion at convergence: -158.1509
+REML criterion at convergence: -45.524
 Random effects:
- Groups   Name        Std.Dev.
- game_id  (Intercept) 0.057767
- defense  (Intercept) 0.007977
- offense  (Intercept) 0.060810
- Residual             0.149956
-Number of obs: 176, groups:  game_id, 74; defense, 8; offense, 8
+ Groups   Name        Std.Dev. 
+ game_id  (Intercept) 7.925e-02
+ defense  (Intercept) 7.896e-06
+ offense  (Intercept) 7.252e-02
+ Residual             1.841e-01
+Number of obs: 60, groups:  game_id, 15; defense, 8; offense, 8
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-           2.0680             0.0505  
+          2.04472            0.04305  
+optimizer (nloptwrap) convergence code: 0 (OK) ; 0 optimizer warnings; 1 lme4 warnings 
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
 
-REML criterion at convergence: -158.2
+REML criterion at convergence: -45.5
 
 Scaled residuals: 
      Min       1Q   Median       3Q      Max 
--2.94601 -0.45672  0.06531  0.50024  2.29773 
+-2.19527 -0.55476  0.07424  0.39993  1.99228 
 
 Random effects:
- Groups   Name        Variance  Std.Dev.
- game_id  (Intercept) 3.337e-03 0.057767
- defense  (Intercept) 6.363e-05 0.007977
- offense  (Intercept) 3.698e-03 0.060810
- Residual             2.249e-02 0.149956
-Number of obs: 176, groups:  game_id, 74; defense, 8; offense, 8
+ Groups   Name        Variance  Std.Dev. 
+ game_id  (Intercept) 6.281e-03 7.925e-02
+ defense  (Intercept) 6.235e-11 7.896e-06
+ offense  (Intercept) 5.259e-03 7.252e-02
+ Residual             3.388e-02 1.841e-01
+Number of obs: 60, groups:  game_id, 15; defense, 8; offense, 8
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)        2.06800    0.02693   76.81
-fieldoffense_home  0.05050    0.01981    2.55
+(Intercept)        2.04472    0.04060  50.363
+fieldoffense_home  0.04305    0.03447   1.249
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.367
+fildffns_hm -0.416
+optimizer (nloptwrap) convergence code: 0 (OK)
+boundary (singular) fit: see ?isSingular
+
 [1] TRUE

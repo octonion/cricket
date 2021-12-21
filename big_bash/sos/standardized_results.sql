@@ -37,7 +37,8 @@ away_run_rate
 from big_bash.games
 
 where
-    season between 2003 and 2021
+    season between 2020 and 2021
+    
 and home_run_rate is not null
 and away_run_rate is not null
 );
@@ -65,7 +66,7 @@ home_run_rate
 from big_bash.games
 
 where
-    season between 2003 and 2021
+    season between 2020 and 2021
 
 and home_run_rate is not null
 and away_run_rate is not null
