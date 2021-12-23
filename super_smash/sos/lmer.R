@@ -20,7 +20,7 @@ ln(r.team_score) as gs,
 from super_smash.results r
 
 where
-    r.year between 2020 and 2021
+    r.year between 2021 and 2021
 
 ;")
 
