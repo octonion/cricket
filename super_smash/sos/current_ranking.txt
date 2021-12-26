@@ -3,22 +3,22 @@ CREATE TABLE
 INSERT 0 6
  rk |            team            | str  | ofs  | dfs  | sos  
 ----+----------------------------+------+------+------+------
-  1 | Canterbury Kings           | 1.11 | 1.08 | 0.97 | 0.99
-  2 | Wellington Firebirds       | 1.02 | 1.02 | 1.00 | 1.02
-  3 | Central Stags              | 1.01 | 1.01 | 1.01 | 1.01
-  4 | Northern Districts Knights | 0.99 | 0.99 | 0.99 | 0.98
-  5 | Otago Volts                | 0.97 | 0.98 | 1.01 | 1.01
-  6 | Auckland Aces              | 0.91 | 0.93 | 1.01 | 1.01
+  1 | Canterbury Kings           | 1.11 | 1.00 | 0.90 | 0.98
+  2 | Northern Districts Knights | 1.02 | 1.00 | 0.98 | 1.00
+  3 | Wellington Firebirds       | 0.98 | 1.00 | 1.02 | 1.02
+  4 | Auckland Aces              | 0.98 | 1.00 | 1.02 | 1.01
+  5 | Central Stags              | 0.98 | 1.00 | 1.02 | 1.01
+  6 | Otago Volts                | 0.94 | 1.00 | 1.07 | 1.02
 (6 rows)
 
  rk |            team            | str  | ofs  | dfs  | sos  
 ----+----------------------------+------+------+------+------
-  1 | Canterbury Kings           | 1.11 | 1.08 | 0.97 | 0.99
-  2 | Wellington Firebirds       | 1.02 | 1.02 | 1.00 | 1.02
-  3 | Central Stags              | 1.01 | 1.01 | 1.01 | 1.01
-  4 | Northern Districts Knights | 0.99 | 0.99 | 0.99 | 0.98
-  5 | Otago Volts                | 0.97 | 0.98 | 1.01 | 1.01
-  6 | Auckland Aces              | 0.91 | 0.93 | 1.01 | 1.01
+  1 | Canterbury Kings           | 1.11 | 1.00 | 0.90 | 0.98
+  2 | Northern Districts Knights | 1.02 | 1.00 | 0.98 | 1.00
+  3 | Wellington Firebirds       | 0.98 | 1.00 | 1.02 | 1.02
+  4 | Auckland Aces              | 0.98 | 1.00 | 1.02 | 1.01
+  5 | Central Stags              | 0.98 | 1.00 | 1.02 | 1.01
+  6 | Otago Volts                | 0.94 | 1.00 | 1.07 | 1.02
 (6 rows)
 
 COPY 6

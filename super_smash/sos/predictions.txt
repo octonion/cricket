@@ -1,15 +1,12 @@
 BEGIN
-    date    |            home            |            away            | e_home | e_away | e_d  |  e_rd  
-------------+----------------------------+----------------------------+--------+--------+------+--------
- 2021-12-23 | Northern Districts Knights | Canterbury Kings           |    7.6 |    8.6 | -1.0 | -19.45
- 2021-12-23 | Wellington Firebirds       | Auckland Aces              |    8.2 |    7.4 |  0.8 |  15.81
- 2021-12-25 | Canterbury Kings           | Otago Volts                |    8.7 |    7.6 |  1.0 |  20.85
- 2021-12-26 | Central Stags              | Auckland Aces              |    8.2 |    7.5 |  0.7 |  13.67
- 2021-12-27 | Otago Volts                | Wellington Firebirds       |    7.8 |    8.3 | -0.5 | -10.80
- 2021-12-28 | Otago Volts                | Auckland Aces              |    7.9 |    7.5 |  0.3 |   6.76
- 2021-12-29 | Central Stags              | Northern Districts Knights |    8.0 |    7.9 |  0.0 |   0.93
- 2021-12-30 | Central Stags              | Canterbury Kings           |    7.8 |    8.7 | -0.9 | -17.26
-(8 rows)
+    date    |     home      |            away            | e_home | e_away | e_d  |  e_rd  
+------------+---------------+----------------------------+--------+--------+------+--------
+ 2021-12-26 | Central Stags | Auckland Aces              |    7.8 |    7.9 | -0.1 |  -1.95
+ 2021-12-27 | Otago Volts   | Wellington Firebirds       |    7.7 |    8.2 | -0.5 |  -9.92
+ 2021-12-28 | Otago Volts   | Auckland Aces              |    7.8 |    8.2 | -0.4 |  -8.92
+ 2021-12-29 | Central Stags | Northern Districts Knights |    7.4 |    7.9 | -0.4 |  -8.69
+ 2021-12-30 | Central Stags | Canterbury Kings           |    6.9 |    7.9 | -1.0 | -20.13
+(5 rows)
 
-COPY 8
+COPY 5
 COMMIT
