@@ -98,12 +98,6 @@ iteration: 47
 	f(x) = -56.568199
 iteration: 48
 	f(x) = -56.568199
-iteration: 49
-	f(x) = -56.568199
-iteration: 50
-	f(x) = -56.568199
-iteration: 51
-	f(x) = -56.568199
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
@@ -111,10 +105,10 @@ Weights: w
 REML criterion at convergence: -56.5682
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.157398
- defense  (Intercept) 0.066498
- offense  (Intercept) 0.003365
- Residual             0.114860
+ game_id  (Intercept) 0.157407
+ defense  (Intercept) 0.066496
+ offense  (Intercept) 0.003383
+ Residual             0.114858
 Number of obs: 48, groups:  game_id, 12; defense, 6; offense, 6
 Fixed Effects:
       (Intercept)  fieldoffense_home  
@@ -128,19 +122,19 @@ REML criterion at convergence: -56.6
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--1.5865 -0.5739  0.1014  0.5768  1.7470 
+-1.5865 -0.5739  0.1014  0.5767  1.7470 
 
 Random effects:
  Groups   Name        Variance  Std.Dev.
- game_id  (Intercept) 2.477e-02 0.157398
- defense  (Intercept) 4.422e-03 0.066498
- offense  (Intercept) 1.132e-05 0.003365
- Residual             1.319e-02 0.114860
+ game_id  (Intercept) 2.478e-02 0.157407
+ defense  (Intercept) 4.422e-03 0.066496
+ offense  (Intercept) 1.144e-05 0.003383
+ Residual             1.319e-02 0.114858
 Number of obs: 48, groups:  game_id, 12; defense, 6; offense, 6
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)        2.04251    0.05579  36.608
+(Intercept)        2.04251    0.05580  36.607
 fieldoffense_home -0.01242    0.02517  -0.493
 
 Correlation of Fixed Effects:
