@@ -1,187 +1,193 @@
-[1] 46  7
-[1] 92  7
+[1] 48  7
+[1] 96  7
 [1] TRUE
-[1] 92  5
+[1] 96  5
 iteration: 1
-	f(x) = -69.851245
+	f(x) = -74.246147
 iteration: 2
-	f(x) = -52.013315
+	f(x) = -55.556402
 iteration: 3
-	f(x) = -65.287555
+	f(x) = -70.148861
 iteration: 4
-	f(x) = -64.707657
+	f(x) = -69.114662
 iteration: 5
-	f(x) = -70.212501
+	f(x) = -75.332766
 iteration: 6
-	f(x) = -73.389736
+	f(x) = -77.298600
 iteration: 7
-	f(x) = -74.005033
+	f(x) = -77.904031
 iteration: 8
-	f(x) = -81.210588
+	f(x) = -86.126203
 iteration: 9
-	f(x) = -76.353763
+	f(x) = -85.129503
 iteration: 10
-	f(x) = -82.228176
+	f(x) = -86.993975
 iteration: 11
-	f(x) = -82.409040
+	f(x) = -89.854581
 iteration: 12
-	f(x) = -82.951810
+	f(x) = -84.185540
 iteration: 13
-	f(x) = -83.329387
+	f(x) = -89.517929
 iteration: 14
-	f(x) = -82.422080
+	f(x) = -88.901987
 iteration: 15
-	f(x) = -83.732282
+	f(x) = -89.727052
 iteration: 16
-	f(x) = -84.181756
+	f(x) = -89.989311
 iteration: 17
-	f(x) = -85.263970
+	f(x) = -90.319166
 iteration: 18
-	f(x) = -86.390220
+	f(x) = -90.830708
 iteration: 19
-	f(x) = -87.387120
+	f(x) = -90.595933
 iteration: 20
-	f(x) = -82.961832
+	f(x) = -90.877180
 iteration: 21
-	f(x) = -87.029208
+	f(x) = -90.931295
 iteration: 22
-	f(x) = -86.994477
+	f(x) = -90.921345
 iteration: 23
-	f(x) = -86.612165
+	f(x) = -90.864747
 iteration: 24
-	f(x) = -87.807481
+	f(x) = -91.040035
 iteration: 25
-	f(x) = -86.223011
+	f(x) = -91.221098
 iteration: 26
-	f(x) = -87.694734
+	f(x) = -91.462548
 iteration: 27
-	f(x) = -87.973285
+	f(x) = -91.446828
 iteration: 28
-	f(x) = -87.824503
+	f(x) = -91.494196
 iteration: 29
-	f(x) = -87.990880
+	f(x) = -91.741252
 iteration: 30
-	f(x) = -88.047603
+	f(x) = -91.734310
 iteration: 31
-	f(x) = -88.106955
+	f(x) = -91.623739
 iteration: 32
-	f(x) = -88.200778
+	f(x) = -91.863981
 iteration: 33
-	f(x) = -88.312307
+	f(x) = -91.848108
 iteration: 34
-	f(x) = -88.357555
+	f(x) = -91.940995
 iteration: 35
-	f(x) = -88.308036
+	f(x) = -92.086610
 iteration: 36
-	f(x) = -88.385412
+	f(x) = -92.288223
 iteration: 37
-	f(x) = -88.397052
+	f(x) = -92.554083
 iteration: 38
-	f(x) = -88.434655
+	f(x) = -92.584429
 iteration: 39
-	f(x) = -88.460750
+	f(x) = -92.427766
 iteration: 40
-	f(x) = -88.479151
+	f(x) = -91.432296
 iteration: 41
-	f(x) = -88.480450
+	f(x) = -92.976493
 iteration: 42
-	f(x) = -88.480597
+	f(x) = -92.770830
 iteration: 43
-	f(x) = -88.471494
+	f(x) = -92.735879
 iteration: 44
-	f(x) = -88.473803
+	f(x) = -93.035838
 iteration: 45
-	f(x) = -88.495324
+	f(x) = -93.001466
 iteration: 46
-	f(x) = -88.512918
+	f(x) = -93.072501
 iteration: 47
-	f(x) = -88.525749
+	f(x) = -93.087313
 iteration: 48
-	f(x) = -88.530066
+	f(x) = -93.083757
 iteration: 49
-	f(x) = -88.523308
+	f(x) = -93.093100
 iteration: 50
-	f(x) = -88.522384
+	f(x) = -93.097130
 iteration: 51
-	f(x) = -88.534434
+	f(x) = -93.097799
 iteration: 52
-	f(x) = -88.535780
+	f(x) = -93.096491
 iteration: 53
-	f(x) = -88.535935
+	f(x) = -93.097830
 iteration: 54
-	f(x) = -88.534070
+	f(x) = -93.095204
 iteration: 55
-	f(x) = -88.535907
+	f(x) = -93.097900
 iteration: 56
-	f(x) = -88.535940
+	f(x) = -93.097855
 iteration: 57
-	f(x) = -88.535951
+	f(x) = -93.097786
 iteration: 58
-	f(x) = -88.535942
+	f(x) = -93.097857
 iteration: 59
-	f(x) = -88.535944
+	f(x) = -93.097911
 iteration: 60
-	f(x) = -88.535960
+	f(x) = -93.097914
 iteration: 61
-	f(x) = -88.535946
+	f(x) = -93.097914
 iteration: 62
-	f(x) = -88.535960
+	f(x) = -93.097914
 iteration: 63
-	f(x) = -88.535960
+	f(x) = -93.097914
 iteration: 64
-	f(x) = -88.535961
+	f(x) = -93.097915
 iteration: 65
-	f(x) = -88.535961
+	f(x) = -93.097915
 iteration: 66
-	f(x) = -88.535961
+	f(x) = -93.097915
 iteration: 67
-	f(x) = -88.535959
+	f(x) = -93.097915
 iteration: 68
-	f(x) = -88.535961
+	f(x) = -93.097916
 iteration: 69
-	f(x) = -88.535961
+	f(x) = -93.097916
 iteration: 70
-	f(x) = -88.535961
+	f(x) = -93.097915
+iteration: 71
+	f(x) = -93.097916
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
-REML criterion at convergence: -88.536
+REML criterion at convergence: -93.0979
 Random effects:
- Groups   Name        Std.Dev.
- game_id  (Intercept) 0.10639 
- defense  (Intercept) 0.01537 
- offense  (Intercept) 0.06340 
- Residual             0.15818 
-Number of obs: 92, groups:  game_id, 23; defense, 8; offense, 8
+ Groups   Name        Std.Dev. 
+ game_id  (Intercept) 1.020e-01
+ defense  (Intercept) 7.852e-06
+ offense  (Intercept) 6.112e-02
+ Residual             1.605e-01
+Number of obs: 96, groups:  game_id, 24; defense, 8; offense, 8
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-          2.10165            0.01977  
+          2.09877            0.03055  
+optimizer (nloptwrap) convergence code: 0 (OK) ; 0 optimizer warnings; 1 lme4 warnings 
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
 
-REML criterion at convergence: -88.5
+REML criterion at convergence: -93.1
 
 Scaled residuals: 
      Min       1Q   Median       3Q      Max 
--2.62796 -0.45026  0.00403  0.46860  2.25139 
+-2.62170 -0.48802  0.02726  0.46521  2.19688 
 
 Random effects:
- Groups   Name        Variance  Std.Dev.
- game_id  (Intercept) 0.0113198 0.10639 
- defense  (Intercept) 0.0002363 0.01537 
- offense  (Intercept) 0.0040191 0.06340 
- Residual             0.0250197 0.15818 
-Number of obs: 92, groups:  game_id, 23; defense, 8; offense, 8
+ Groups   Name        Variance  Std.Dev. 
+ game_id  (Intercept) 1.040e-02 1.020e-01
+ defense  (Intercept) 6.165e-11 7.852e-06
+ offense  (Intercept) 3.735e-03 6.112e-02
+ Residual             2.577e-02 1.605e-01
+Number of obs: 96, groups:  game_id, 24; defense, 8; offense, 8
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)        2.10165    0.03617  58.111
-fieldoffense_home  0.01977    0.02425   0.815
+(Intercept)        2.09877    0.03430  61.187
+fieldoffense_home  0.03055    0.02396   1.275
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.335
+fildffns_hm -0.346
+optimizer (nloptwrap) convergence code: 0 (OK)
+boundary (singular) fit: see ?isSingular
+
 [1] TRUE
