@@ -1,193 +1,205 @@
-[1] 48  7
-[1] 96  7
+[1] 52  7
+[1] 104   7
 [1] TRUE
-[1] 96  5
+[1] 104   5
 iteration: 1
-	f(x) = -74.246147
+	f(x) = -72.446235
 iteration: 2
-	f(x) = -55.556402
+	f(x) = -51.459041
 iteration: 3
-	f(x) = -70.148861
+	f(x) = -67.728883
 iteration: 4
-	f(x) = -69.114662
+	f(x) = -67.776181
 iteration: 5
-	f(x) = -75.332766
+	f(x) = -72.829008
 iteration: 6
-	f(x) = -77.298600
+	f(x) = -76.057749
 iteration: 7
-	f(x) = -77.904031
+	f(x) = -75.903323
 iteration: 8
-	f(x) = -86.126203
+	f(x) = -86.105779
 iteration: 9
-	f(x) = -85.129503
+	f(x) = -81.465118
 iteration: 10
-	f(x) = -86.993975
+	f(x) = -86.348236
 iteration: 11
-	f(x) = -89.854581
+	f(x) = -78.788894
 iteration: 12
-	f(x) = -84.185540
+	f(x) = -83.026987
 iteration: 13
-	f(x) = -89.517929
+	f(x) = -90.636124
 iteration: 14
-	f(x) = -88.901987
+	f(x) = -72.635905
 iteration: 15
-	f(x) = -89.727052
+	f(x) = -89.917594
 iteration: 16
-	f(x) = -89.989311
+	f(x) = -89.462662
 iteration: 17
-	f(x) = -90.319166
+	f(x) = -90.774898
 iteration: 18
-	f(x) = -90.830708
+	f(x) = -90.382182
 iteration: 19
-	f(x) = -90.595933
+	f(x) = -90.785820
 iteration: 20
-	f(x) = -90.877180
+	f(x) = -90.700604
 iteration: 21
-	f(x) = -90.931295
+	f(x) = -90.864079
 iteration: 22
-	f(x) = -90.921345
+	f(x) = -90.997720
 iteration: 23
-	f(x) = -90.864747
+	f(x) = -91.173413
 iteration: 24
-	f(x) = -91.040035
+	f(x) = -91.363035
 iteration: 25
-	f(x) = -91.221098
+	f(x) = -91.343524
 iteration: 26
-	f(x) = -91.462548
+	f(x) = -91.541050
 iteration: 27
-	f(x) = -91.446828
+	f(x) = -91.594310
 iteration: 28
-	f(x) = -91.494196
+	f(x) = -91.648267
 iteration: 29
-	f(x) = -91.741252
+	f(x) = -91.733341
 iteration: 30
-	f(x) = -91.734310
+	f(x) = -91.705953
 iteration: 31
-	f(x) = -91.623739
+	f(x) = -91.710641
 iteration: 32
-	f(x) = -91.863981
+	f(x) = -91.728295
 iteration: 33
-	f(x) = -91.848108
+	f(x) = -91.731788
 iteration: 34
-	f(x) = -91.940995
+	f(x) = -91.757106
 iteration: 35
-	f(x) = -92.086610
+	f(x) = -91.770182
 iteration: 36
-	f(x) = -92.288223
+	f(x) = -91.773990
 iteration: 37
-	f(x) = -92.554083
+	f(x) = -91.777694
 iteration: 38
-	f(x) = -92.584429
+	f(x) = -91.780498
 iteration: 39
-	f(x) = -92.427766
+	f(x) = -91.789972
 iteration: 40
-	f(x) = -91.432296
+	f(x) = -91.842452
 iteration: 41
-	f(x) = -92.976493
+	f(x) = -91.997254
 iteration: 42
-	f(x) = -92.770830
+	f(x) = -92.051953
 iteration: 43
-	f(x) = -92.735879
+	f(x) = -91.910008
 iteration: 44
-	f(x) = -93.035838
+	f(x) = -91.926141
 iteration: 45
-	f(x) = -93.001466
+	f(x) = -91.548440
 iteration: 46
-	f(x) = -93.072501
+	f(x) = -92.294194
 iteration: 47
-	f(x) = -93.087313
+	f(x) = -92.202695
 iteration: 48
-	f(x) = -93.083757
+	f(x) = -92.265942
 iteration: 49
-	f(x) = -93.093100
+	f(x) = -92.331833
 iteration: 50
-	f(x) = -93.097130
+	f(x) = -92.256244
 iteration: 51
-	f(x) = -93.097799
+	f(x) = -92.318188
 iteration: 52
-	f(x) = -93.096491
+	f(x) = -92.335129
 iteration: 53
-	f(x) = -93.097830
+	f(x) = -92.330027
 iteration: 54
-	f(x) = -93.095204
+	f(x) = -92.326933
 iteration: 55
-	f(x) = -93.097900
+	f(x) = -92.341053
 iteration: 56
-	f(x) = -93.097855
+	f(x) = -92.351175
 iteration: 57
-	f(x) = -93.097786
+	f(x) = -92.365522
 iteration: 58
-	f(x) = -93.097857
+	f(x) = -92.375347
 iteration: 59
-	f(x) = -93.097911
+	f(x) = -92.377487
 iteration: 60
-	f(x) = -93.097914
+	f(x) = -92.377983
 iteration: 61
-	f(x) = -93.097914
+	f(x) = -92.379466
 iteration: 62
-	f(x) = -93.097914
+	f(x) = -92.379786
 iteration: 63
-	f(x) = -93.097914
+	f(x) = -92.379772
 iteration: 64
-	f(x) = -93.097915
+	f(x) = -92.378430
 iteration: 65
-	f(x) = -93.097915
+	f(x) = -92.380351
 iteration: 66
-	f(x) = -93.097915
+	f(x) = -92.380480
 iteration: 67
-	f(x) = -93.097915
+	f(x) = -92.380489
 iteration: 68
-	f(x) = -93.097916
+	f(x) = -92.380519
 iteration: 69
-	f(x) = -93.097916
+	f(x) = -92.380518
 iteration: 70
-	f(x) = -93.097915
+	f(x) = -92.380512
 iteration: 71
-	f(x) = -93.097916
+	f(x) = -92.380513
+iteration: 72
+	f(x) = -92.380502
+iteration: 73
+	f(x) = -92.380521
+iteration: 74
+	f(x) = -92.380521
+iteration: 75
+	f(x) = -92.380520
+iteration: 76
+	f(x) = -92.380521
+iteration: 77
+	f(x) = -92.380521
+iteration: 78
+	f(x) = -92.380521
+iteration: 79
+	f(x) = -92.380521
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
-REML criterion at convergence: -93.0979
+REML criterion at convergence: -92.3805
 Random effects:
- Groups   Name        Std.Dev. 
- game_id  (Intercept) 1.020e-01
- defense  (Intercept) 7.852e-06
- offense  (Intercept) 6.112e-02
- Residual             1.605e-01
-Number of obs: 96, groups:  game_id, 24; defense, 8; offense, 8
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.13187 
+ defense  (Intercept) 0.04403 
+ offense  (Intercept) 0.04851 
+ Residual             0.15790 
+Number of obs: 104, groups:  game_id, 26; defense, 8; offense, 8
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-          2.09877            0.03055  
-optimizer (nloptwrap) convergence code: 0 (OK) ; 0 optimizer warnings; 1 lme4 warnings 
+          2.09698            0.01291  
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
 
-REML criterion at convergence: -93.1
+REML criterion at convergence: -92.4
 
 Scaled residuals: 
      Min       1Q   Median       3Q      Max 
--2.62170 -0.48802  0.02726  0.46521  2.19688 
+-2.57313 -0.50692 -0.00799  0.44529  2.38429 
 
 Random effects:
- Groups   Name        Variance  Std.Dev. 
- game_id  (Intercept) 1.040e-02 1.020e-01
- defense  (Intercept) 6.165e-11 7.852e-06
- offense  (Intercept) 3.735e-03 6.112e-02
- Residual             2.577e-02 1.605e-01
-Number of obs: 96, groups:  game_id, 24; defense, 8; offense, 8
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.017389 0.13187 
+ defense  (Intercept) 0.001939 0.04403 
+ offense  (Intercept) 0.002353 0.04851 
+ Residual             0.024933 0.15790 
+Number of obs: 104, groups:  game_id, 26; defense, 8; offense, 8
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)        2.09877    0.03430  61.187
-fieldoffense_home  0.03055    0.02396   1.275
+(Intercept)        2.09698    0.03814  54.981
+fieldoffense_home  0.01291    0.02255   0.573
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.346
-optimizer (nloptwrap) convergence code: 0 (OK)
-boundary (singular) fit: see ?isSingular
-
+fildffns_hm -0.295
 [1] TRUE
