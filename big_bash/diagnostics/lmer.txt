@@ -1,205 +1,185 @@
-[1] 52  7
-[1] 104   7
+[1] 54  7
+[1] 108   7
 [1] TRUE
-[1] 104   5
+[1] 108   5
 iteration: 1
-	f(x) = -72.446235
+	f(x) = -78.768815
 iteration: 2
-	f(x) = -51.459041
+	f(x) = -56.803051
 iteration: 3
-	f(x) = -67.728883
+	f(x) = -74.050871
 iteration: 4
-	f(x) = -67.776181
+	f(x) = -73.987578
 iteration: 5
-	f(x) = -72.829008
+	f(x) = -80.340631
 iteration: 6
-	f(x) = -76.057749
+	f(x) = -82.397926
 iteration: 7
-	f(x) = -75.903323
+	f(x) = -82.332241
 iteration: 8
-	f(x) = -86.105779
+	f(x) = -93.900681
 iteration: 9
-	f(x) = -81.465118
+	f(x) = -88.970766
 iteration: 10
-	f(x) = -86.348236
+	f(x) = -94.059150
 iteration: 11
-	f(x) = -78.788894
+	f(x) = -88.310338
 iteration: 12
-	f(x) = -83.026987
+	f(x) = -90.527816
 iteration: 13
-	f(x) = -90.636124
+	f(x) = -98.142457
 iteration: 14
-	f(x) = -72.635905
+	f(x) = -77.405975
 iteration: 15
-	f(x) = -89.917594
+	f(x) = -97.560023
 iteration: 16
-	f(x) = -89.462662
+	f(x) = -96.879240
 iteration: 17
-	f(x) = -90.774898
+	f(x) = -98.194735
 iteration: 18
-	f(x) = -90.382182
+	f(x) = -97.765591
 iteration: 19
-	f(x) = -90.785820
+	f(x) = -98.138935
 iteration: 20
-	f(x) = -90.700604
+	f(x) = -98.025481
 iteration: 21
-	f(x) = -90.864079
+	f(x) = -98.230439
 iteration: 22
-	f(x) = -90.997720
+	f(x) = -98.333747
 iteration: 23
-	f(x) = -91.173413
+	f(x) = -98.508892
 iteration: 24
-	f(x) = -91.363035
+	f(x) = -98.625870
 iteration: 25
-	f(x) = -91.343524
+	f(x) = -98.761000
 iteration: 26
-	f(x) = -91.541050
+	f(x) = -98.828609
 iteration: 27
-	f(x) = -91.594310
+	f(x) = -99.360174
 iteration: 28
-	f(x) = -91.648267
+	f(x) = -99.629500
 iteration: 29
-	f(x) = -91.733341
+	f(x) = -98.978253
 iteration: 30
-	f(x) = -91.705953
+	f(x) = -99.486779
 iteration: 31
-	f(x) = -91.710641
+	f(x) = -99.595904
 iteration: 32
-	f(x) = -91.728295
+	f(x) = -99.456202
 iteration: 33
-	f(x) = -91.731788
+	f(x) = -99.534714
 iteration: 34
-	f(x) = -91.757106
+	f(x) = -99.641035
 iteration: 35
-	f(x) = -91.770182
+	f(x) = -99.722213
 iteration: 36
-	f(x) = -91.773990
+	f(x) = -99.751453
 iteration: 37
-	f(x) = -91.777694
+	f(x) = -99.756116
 iteration: 38
-	f(x) = -91.780498
+	f(x) = -99.755827
 iteration: 39
-	f(x) = -91.789972
+	f(x) = -99.736494
 iteration: 40
-	f(x) = -91.842452
+	f(x) = -99.778097
 iteration: 41
-	f(x) = -91.997254
+	f(x) = -99.784638
 iteration: 42
-	f(x) = -92.051953
+	f(x) = -99.779606
 iteration: 43
-	f(x) = -91.910008
+	f(x) = -99.786080
 iteration: 44
-	f(x) = -91.926141
+	f(x) = -99.785710
 iteration: 45
-	f(x) = -91.548440
+	f(x) = -99.786438
 iteration: 46
-	f(x) = -92.294194
+	f(x) = -99.787302
 iteration: 47
-	f(x) = -92.202695
+	f(x) = -99.787374
 iteration: 48
-	f(x) = -92.265942
+	f(x) = -99.787239
 iteration: 49
-	f(x) = -92.331833
+	f(x) = -99.787387
 iteration: 50
-	f(x) = -92.256244
+	f(x) = -99.787511
 iteration: 51
-	f(x) = -92.318188
+	f(x) = -99.787633
 iteration: 52
-	f(x) = -92.335129
+	f(x) = -99.787737
 iteration: 53
-	f(x) = -92.330027
+	f(x) = -99.787726
 iteration: 54
-	f(x) = -92.326933
+	f(x) = -99.787702
 iteration: 55
-	f(x) = -92.341053
+	f(x) = -99.787779
 iteration: 56
-	f(x) = -92.351175
+	f(x) = -99.787757
 iteration: 57
-	f(x) = -92.365522
+	f(x) = -99.787714
 iteration: 58
-	f(x) = -92.375347
+	f(x) = -99.787757
 iteration: 59
-	f(x) = -92.377487
+	f(x) = -99.787783
 iteration: 60
-	f(x) = -92.377983
+	f(x) = -99.787783
 iteration: 61
-	f(x) = -92.379466
+	f(x) = -99.787782
 iteration: 62
-	f(x) = -92.379786
+	f(x) = -99.787783
 iteration: 63
-	f(x) = -92.379772
+	f(x) = -99.787783
 iteration: 64
-	f(x) = -92.378430
+	f(x) = -99.787783
 iteration: 65
-	f(x) = -92.380351
+	f(x) = -99.787783
 iteration: 66
-	f(x) = -92.380480
+	f(x) = -99.787783
 iteration: 67
-	f(x) = -92.380489
+	f(x) = -99.787783
 iteration: 68
-	f(x) = -92.380519
+	f(x) = -99.787782
 iteration: 69
-	f(x) = -92.380518
-iteration: 70
-	f(x) = -92.380512
-iteration: 71
-	f(x) = -92.380513
-iteration: 72
-	f(x) = -92.380502
-iteration: 73
-	f(x) = -92.380521
-iteration: 74
-	f(x) = -92.380521
-iteration: 75
-	f(x) = -92.380520
-iteration: 76
-	f(x) = -92.380521
-iteration: 77
-	f(x) = -92.380521
-iteration: 78
-	f(x) = -92.380521
-iteration: 79
-	f(x) = -92.380521
+	f(x) = -99.787783
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
-REML criterion at convergence: -92.3805
+REML criterion at convergence: -99.7878
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.13187 
- defense  (Intercept) 0.04403 
- offense  (Intercept) 0.04851 
- Residual             0.15790 
-Number of obs: 104, groups:  game_id, 26; defense, 8; offense, 8
+ game_id  (Intercept) 0.12969 
+ defense  (Intercept) 0.04345 
+ offense  (Intercept) 0.05211 
+ Residual             0.15469 
+Number of obs: 108, groups:  game_id, 27; defense, 8; offense, 8
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-          2.09698            0.01291  
+         2.100913           0.008902  
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
 
-REML criterion at convergence: -92.4
+REML criterion at convergence: -99.8
 
 Scaled residuals: 
      Min       1Q   Median       3Q      Max 
--2.57313 -0.50692 -0.00799  0.44529  2.38429 
+-2.64228 -0.50887 -0.00124  0.39872  2.44698 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.017389 0.13187 
- defense  (Intercept) 0.001939 0.04403 
- offense  (Intercept) 0.002353 0.04851 
- Residual             0.024933 0.15790 
-Number of obs: 104, groups:  game_id, 26; defense, 8; offense, 8
+ game_id  (Intercept) 0.016818 0.12969 
+ defense  (Intercept) 0.001888 0.04345 
+ offense  (Intercept) 0.002715 0.05211 
+ Residual             0.023929 0.15469 
+Number of obs: 108, groups:  game_id, 27; defense, 8; offense, 8
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)        2.09698    0.03814  54.981
-fieldoffense_home  0.01291    0.02255   0.573
+(Intercept)       2.100913   0.037755  55.646
+fieldoffense_home 0.008902   0.021426   0.415
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.295
+fildffns_hm -0.283
 [1] TRUE
