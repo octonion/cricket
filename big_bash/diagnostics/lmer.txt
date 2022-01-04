@@ -1,181 +1,189 @@
-[1] 60  7
-[1] 120   7
+[1] 62  7
+[1] 124   7
 [1] TRUE
-[1] 120   5
+[1] 124   5
 iteration: 1
-	f(x) = -95.604323
+	f(x) = -100.716631
 iteration: 2
-	f(x) = -70.798926
+	f(x) = -75.191824
 iteration: 3
-	f(x) = -90.601048
+	f(x) = -96.208861
 iteration: 4
-	f(x) = -90.581743
+	f(x) = -95.515120
 iteration: 5
-	f(x) = -99.614211
+	f(x) = -102.803953
 iteration: 6
-	f(x) = -99.791747
+	f(x) = -104.246471
 iteration: 7
-	f(x) = -99.712928
+	f(x) = -104.629741
 iteration: 8
-	f(x) = -115.930066
+	f(x) = -114.523056
 iteration: 9
-	f(x) = -101.580874
+	f(x) = -106.297478
 iteration: 10
-	f(x) = -112.831336
+	f(x) = -116.382430
 iteration: 11
-	f(x) = -118.469783
+	f(x) = -116.750789
 iteration: 12
-	f(x) = -117.047961
+	f(x) = -116.350125
 iteration: 13
-	f(x) = -119.629306
+	f(x) = -115.477161
 iteration: 14
-	f(x) = -119.564300
+	f(x) = -116.281816
 iteration: 15
-	f(x) = -119.773083
+	f(x) = -118.721309
 iteration: 16
-	f(x) = -119.793702
+	f(x) = -119.793242
 iteration: 17
-	f(x) = -119.796620
+	f(x) = -120.796344
 iteration: 18
-	f(x) = -119.821901
+	f(x) = -121.055961
 iteration: 19
-	f(x) = -119.854488
+	f(x) = -120.945133
 iteration: 20
-	f(x) = -119.910307
+	f(x) = -121.241220
 iteration: 21
-	f(x) = -119.985742
+	f(x) = -121.753419
 iteration: 22
-	f(x) = -120.028493
+	f(x) = -122.635807
 iteration: 23
-	f(x) = -120.001068
+	f(x) = -122.986576
 iteration: 24
-	f(x) = -119.990365
+	f(x) = -123.178599
 iteration: 25
-	f(x) = -120.030738
+	f(x) = -123.553777
 iteration: 26
-	f(x) = -120.029131
+	f(x) = -123.136863
 iteration: 27
-	f(x) = -120.044811
+	f(x) = -124.222957
 iteration: 28
-	f(x) = -120.073040
+	f(x) = -124.264021
 iteration: 29
-	f(x) = -120.110512
+	f(x) = -124.585517
 iteration: 30
-	f(x) = -120.156058
+	f(x) = -124.562849
 iteration: 31
-	f(x) = -120.142399
+	f(x) = -124.541679
 iteration: 32
-	f(x) = -120.089093
+	f(x) = -124.581760
 iteration: 33
-	f(x) = -120.175518
+	f(x) = -124.590649
 iteration: 34
-	f(x) = -120.228042
+	f(x) = -124.579767
 iteration: 35
-	f(x) = -120.316402
+	f(x) = -124.603128
 iteration: 36
-	f(x) = -120.296029
+	f(x) = -124.609639
 iteration: 37
-	f(x) = -120.346145
+	f(x) = -124.616088
 iteration: 38
-	f(x) = -120.380798
+	f(x) = -124.620905
 iteration: 39
-	f(x) = -120.389446
+	f(x) = -124.624022
 iteration: 40
-	f(x) = -120.424757
+	f(x) = -124.626414
 iteration: 41
-	f(x) = -120.421275
+	f(x) = -124.626560
 iteration: 42
-	f(x) = -120.420893
+	f(x) = -124.626763
 iteration: 43
-	f(x) = -120.431422
+	f(x) = -124.622633
 iteration: 44
-	f(x) = -120.428026
+	f(x) = -124.626597
 iteration: 45
-	f(x) = -120.433200
+	f(x) = -124.626930
 iteration: 46
-	f(x) = -120.432786
+	f(x) = -124.627304
 iteration: 47
-	f(x) = -120.433761
+	f(x) = -124.627589
 iteration: 48
-	f(x) = -120.434336
+	f(x) = -124.627594
 iteration: 49
-	f(x) = -120.434389
+	f(x) = -124.627513
 iteration: 50
-	f(x) = -120.434080
+	f(x) = -124.627437
 iteration: 51
-	f(x) = -120.434577
+	f(x) = -124.627674
 iteration: 52
-	f(x) = -120.434076
+	f(x) = -124.627789
 iteration: 53
-	f(x) = -120.434464
+	f(x) = -124.627860
 iteration: 54
-	f(x) = -120.434525
+	f(x) = -124.627838
 iteration: 55
-	f(x) = -120.434293
+	f(x) = -124.627881
 iteration: 56
-	f(x) = -120.434631
+	f(x) = -124.627977
 iteration: 57
-	f(x) = -120.434591
+	f(x) = -124.628036
 iteration: 58
-	f(x) = -120.434631
+	f(x) = -124.628067
 iteration: 59
-	f(x) = -120.434630
+	f(x) = -124.628070
 iteration: 60
-	f(x) = -120.434631
+	f(x) = -124.628078
 iteration: 61
-	f(x) = -120.434631
+	f(x) = -124.628099
 iteration: 62
-	f(x) = -120.434631
+	f(x) = -124.628106
 iteration: 63
-	f(x) = -120.434631
+	f(x) = -124.628107
 iteration: 64
-	f(x) = -120.434631
+	f(x) = -124.628107
 iteration: 65
-	f(x) = -120.434631
+	f(x) = -124.628107
 iteration: 66
-	f(x) = -120.434631
+	f(x) = -124.628107
 iteration: 67
-	f(x) = -120.434631
+	f(x) = -124.628107
+iteration: 68
+	f(x) = -124.628108
+iteration: 69
+	f(x) = -124.628108
+iteration: 70
+	f(x) = -124.628108
+iteration: 71
+	f(x) = -124.628108
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
-REML criterion at convergence: -120.4346
+REML criterion at convergence: -124.6281
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.12529 
- defense  (Intercept) 0.04800 
- offense  (Intercept) 0.05217 
- Residual             0.14835 
-Number of obs: 120, groups:  game_id, 30; defense, 8; offense, 8
+ game_id  (Intercept) 0.12751 
+ defense  (Intercept) 0.02203 
+ offense  (Intercept) 0.06633 
+ Residual             0.14894 
+Number of obs: 124, groups:  game_id, 31; defense, 8; offense, 8
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-        2.0979187          0.0006702  
+         2.094260          -0.004849  
 Linear mixed model fit by REML ['lmerMod']
 Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
 
-REML criterion at convergence: -120.4
+REML criterion at convergence: -124.6
 
 Scaled residuals: 
      Min       1Q   Median       3Q      Max 
--2.69529 -0.55138 -0.06202  0.51962  2.51406 
+-2.67393 -0.51375 -0.04558  0.57075  2.52530 
 
 Random effects:
- Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.015699 0.12529 
- defense  (Intercept) 0.002304 0.04800 
- offense  (Intercept) 0.002722 0.05217 
- Residual             0.022009 0.14835 
-Number of obs: 120, groups:  game_id, 30; defense, 8; offense, 8
+ Groups   Name        Variance  Std.Dev.
+ game_id  (Intercept) 0.0162586 0.12751 
+ defense  (Intercept) 0.0004853 0.02203 
+ offense  (Intercept) 0.0044000 0.06633 
+ Residual             0.0221832 0.14894 
+Number of obs: 124, groups:  game_id, 31; defense, 8; offense, 8
 
 Fixed effects:
                    Estimate Std. Error t value
-(Intercept)       2.0979187  0.0366568  57.231
-fieldoffense_home 0.0006702  0.0196328   0.034
+(Intercept)        2.094260   0.036324   57.66
+fieldoffense_home -0.004849   0.019400   -0.25
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.268
+fildffns_hm -0.267
 [1] TRUE

@@ -1,15 +1,14 @@
 BEGIN
     date    |        home         |        away         | e_home | e_away | e_d  |  e_rd  
 ------------+---------------------+---------------------+--------+--------+------+--------
- 2022-01-02 | Sydney Thunder      | Adelaide Strikers   |    8.7 |    8.0 |  0.7 |  14.18
- 2022-01-03 | Melbourne Stars     | Melbourne Renegades |    8.5 |    7.9 |  0.6 |  11.95
- 2022-01-04 | Brisbane Heat       | Sydney Sixers       |    7.7 |    8.2 | -0.5 |  -9.57
- 2022-01-05 | Adelaide Strikers   | Hobart Hurricanes   |    7.9 |    8.3 | -0.4 |  -7.54
- 2022-01-05 | Perth Scorchers     | Sydney Thunder      |    8.6 |    8.2 |  0.4 |   7.04
- 2022-01-06 | Melbourne Renegades | Brisbane Heat       |    7.5 |    8.5 | -1.1 | -21.03
- 2022-01-06 | Perth Scorchers     | Sydney Sixers       |    8.2 |    8.1 |  0.2 |   3.05
- 2022-01-07 | Adelaide Strikers   | Melbourne Stars     |    8.3 |    8.2 |  0.1 |   2.27
-(8 rows)
+ 2022-01-03 | Melbourne Stars     | Melbourne Renegades |    7.7 |    7.5 |  0.2 |   4.58
+ 2022-01-04 | Brisbane Heat       | Sydney Sixers       |    7.9 |    8.4 | -0.5 |  -9.93
+ 2022-01-05 | Adelaide Strikers   | Hobart Hurricanes   |    7.8 |    8.2 | -0.4 |  -7.17
+ 2022-01-05 | Perth Scorchers     | Sydney Thunder      |    8.8 |    8.5 |  0.3 |   6.22
+ 2022-01-06 | Melbourne Renegades | Brisbane Heat       |    7.3 |    8.2 | -0.8 | -16.95
+ 2022-01-06 | Perth Scorchers     | Sydney Sixers       |    8.6 |    8.4 |  0.2 |   4.45
+ 2022-01-07 | Adelaide Strikers   | Melbourne Stars     |    8.0 |    7.7 |  0.2 |   4.58
+(7 rows)
 
-COPY 8
+COPY 7
 COMMIT
