@@ -3,26 +3,26 @@ CREATE TABLE
 INSERT 0 8
  rk |        team         | str  | ofs  | dfs  | sos  
 ----+---------------------+------+------+------+------
-  1 | Perth Scorchers     | 1.09 | 1.08 | 0.99 | 0.99
-  2 | Sydney Sixers       | 1.06 | 1.05 | 0.99 | 1.00
-  3 | Sydney Thunder      | 1.05 | 1.05 | 1.00 | 0.99
-  4 | Hobart Hurricanes   | 1.01 | 1.00 | 1.00 | 1.00
-  5 | Brisbane Heat       | 1.00 | 1.00 | 0.99 | 1.01
-  6 | Adelaide Strikers   | 0.97 | 0.97 | 1.01 | 1.01
-  7 | Melbourne Stars     | 0.93 | 0.95 | 1.01 | 1.01
-  8 | Melbourne Renegades | 0.90 | 0.91 | 1.01 | 1.01
+  1 | Perth Scorchers     | 1.10 | 1.06 | 0.97 | 0.99
+  2 | Sydney Sixers       | 1.06 | 1.02 | 0.96 | 1.00
+  3 | Sydney Thunder      | 1.04 | 1.05 | 1.00 | 0.99
+  4 | Hobart Hurricanes   | 1.01 | 1.01 | 1.00 | 1.00
+  5 | Brisbane Heat       | 1.01 | 0.99 | 0.99 | 1.01
+  6 | Adelaide Strikers   | 0.97 | 0.98 | 1.02 | 1.01
+  7 | Melbourne Stars     | 0.93 | 0.96 | 1.03 | 1.01
+  8 | Melbourne Renegades | 0.90 | 0.93 | 1.03 | 1.01
 (8 rows)
 
  rk |        team         | str  | ofs  | dfs  | sos  
 ----+---------------------+------+------+------+------
-  1 | Perth Scorchers     | 1.09 | 1.08 | 0.99 | 0.99
-  2 | Sydney Sixers       | 1.06 | 1.05 | 0.99 | 1.00
-  3 | Sydney Thunder      | 1.05 | 1.05 | 1.00 | 0.99
-  4 | Hobart Hurricanes   | 1.01 | 1.00 | 1.00 | 1.00
-  5 | Brisbane Heat       | 1.00 | 1.00 | 0.99 | 1.01
-  6 | Adelaide Strikers   | 0.97 | 0.97 | 1.01 | 1.01
-  7 | Melbourne Stars     | 0.93 | 0.95 | 1.01 | 1.01
-  8 | Melbourne Renegades | 0.90 | 0.91 | 1.01 | 1.01
+  1 | Perth Scorchers     | 1.10 | 1.06 | 0.97 | 0.99
+  2 | Sydney Sixers       | 1.06 | 1.02 | 0.96 | 1.00
+  3 | Sydney Thunder      | 1.04 | 1.05 | 1.00 | 0.99
+  4 | Hobart Hurricanes   | 1.01 | 1.01 | 1.00 | 1.00
+  5 | Brisbane Heat       | 1.01 | 0.99 | 0.99 | 1.01
+  6 | Adelaide Strikers   | 0.97 | 0.98 | 1.02 | 1.01
+  7 | Melbourne Stars     | 0.93 | 0.96 | 1.03 | 1.01
+  8 | Melbourne Renegades | 0.90 | 0.93 | 1.03 | 1.01
 (8 rows)
 
 COPY 8
