@@ -1,17 +1,16 @@
 BEGIN
     date    |            home            |            away            | e_home | e_away | e_d  |  e_rd  
 ------------+----------------------------+----------------------------+--------+--------+------+--------
- 2022-01-07 | Central Stags              | Wellington Firebirds       |    8.0 |    8.4 | -0.4 |  -8.13
- 2022-01-14 | Auckland Aces              | Otago Volts                |    8.2 |    7.7 |  0.5 |  10.06
- 2022-01-14 | Northern Districts Knights | Central Stags              |    8.1 |    7.7 |  0.4 |   7.44
- 2022-01-15 | Northern Districts Knights | Wellington Firebirds       |    7.8 |    7.7 |  0.1 |   2.20
- 2022-01-17 | Canterbury Kings           | Auckland Aces              |    8.2 |    7.3 |  0.8 |  16.59
- 2022-01-19 | Auckland Aces              | Wellington Firebirds       |    7.8 |    8.0 | -0.2 |  -3.98
- 2022-01-21 | Auckland Aces              | Central Stags              |    8.1 |    8.0 |  0.1 |   1.19
- 2022-01-21 | Canterbury Kings           | Northern Districts Knights |    7.9 |    7.4 |  0.5 |  10.32
- 2022-01-22 | Otago Volts                | Canterbury Kings           |    7.1 |    8.9 | -1.8 | -35.32
- 2022-01-23 | Wellington Firebirds       | Northern Districts Knights |    7.6 |    7.9 | -0.4 |  -7.46
-(10 rows)
+ 2022-01-14 | Auckland Aces              | Otago Volts                |    8.3 |    7.8 |  0.5 |  10.85
+ 2022-01-14 | Northern Districts Knights | Central Stags              |    8.3 |    7.9 |  0.4 |   7.75
+ 2022-01-15 | Northern Districts Knights | Wellington Firebirds       |    8.0 |    7.8 |  0.2 |   3.86
+ 2022-01-17 | Canterbury Kings           | Auckland Aces              |    8.3 |    7.4 |  0.9 |  17.44
+ 2022-01-19 | Auckland Aces              | Wellington Firebirds       |    8.0 |    8.1 | -0.1 |  -2.70
+ 2022-01-21 | Auckland Aces              | Central Stags              |    8.2 |    8.2 |  0.1 |   1.10
+ 2022-01-21 | Canterbury Kings           | Northern Districts Knights |    8.0 |    7.5 |  0.5 |  10.85
+ 2022-01-22 | Otago Volts                | Canterbury Kings           |    7.2 |    9.0 | -1.8 | -35.65
+ 2022-01-23 | Wellington Firebirds       | Northern Districts Knights |    7.7 |    8.1 | -0.4 |  -8.36
+(9 rows)
 
-COPY 10
+COPY 9
 COMMIT
